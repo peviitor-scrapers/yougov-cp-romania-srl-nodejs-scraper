@@ -10,11 +10,19 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-24 |
+| Last Scraped | 2026-07-25 |
 
 ## Current Job Listings (35)
 
-_Generated: 2026-07-24T08:27:30.901Z_
+_Generated: 2026-07-25T08:06:08.781Z_
+
+### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Multinational Client Management Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0939
+- **Status:** scraped
 
 ### Senior Data Scientist
 
@@ -158,14 +166,6 @@ _Generated: 2026-07-24T08:27:30.901Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0907
-- **Status:** scraped
-
-### Werkstudent*in (m/w/d) in Market Research im Advanced Solutions Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0824](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0824)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0824
 - **Status:** scraped
 
 ### Praktikum Research & Insights – FMCG & Retail, 12 Monate
