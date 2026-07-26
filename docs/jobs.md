@@ -10,11 +10,11 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-25 |
+| Last Scraped | 2026-07-26 |
 
 ## Current Job Listings (35)
 
-_Generated: 2026-07-25T08:06:08.781Z_
+_Generated: 2026-07-26T08:28:23.675Z_
 
 ### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Multinational Client Management Team
 
