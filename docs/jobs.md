@@ -10,11 +10,11 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-26 |
+| Last Scraped | 2026-07-27 |
 
-## Current Job Listings (35)
+## Current Job Listings (34)
 
-_Generated: 2026-07-26T08:28:23.675Z_
+_Generated: 2026-07-27T09:52:23.246Z_
 
 ### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Multinational Client Management Team
 
@@ -230,14 +230,6 @@ _Generated: 2026-07-26T08:28:23.675Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Associate Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sydney-Australia/Associate-Research-Manager_JR0891](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sydney-Australia/Associate-Research-Manager_JR0891)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0891
 - **Status:** scraped
 
 ### Commercial Director, YouGov Sport UK
