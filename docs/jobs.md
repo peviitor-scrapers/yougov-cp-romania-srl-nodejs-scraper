@@ -10,11 +10,27 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-27 |
+| Last Scraped | 2026-07-28 |
 
-## Current Job Listings (34)
+## Current Job Listings (35)
 
-_Generated: 2026-07-27T09:52:23.246Z_
+_Generated: 2026-07-28T08:34:07.077Z_
+
+### Commercial Director, YouGov Sport UK
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0884
+- **Status:** scraped
+
+### Market Analyst Assistant - Working Student
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Market-Analyst-Assistant---Working-Student_JR0938](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Market-Analyst-Assistant---Working-Student_JR0938)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0938
+- **Status:** scraped
 
 ### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Multinational Client Management Team
 
@@ -230,14 +246,6 @@ _Generated: 2026-07-27T09:52:23.246Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Commercial Director, YouGov Sport UK
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0884
 - **Status:** scraped
 
 ### Account Manager
