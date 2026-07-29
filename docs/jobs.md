@@ -10,18 +10,18 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-28 |
+| Last Scraped | 2026-07-29 |
 
-## Current Job Listings (35)
+## Current Job Listings (34)
 
-_Generated: 2026-07-28T08:34:07.077Z_
+_Generated: 2026-07-29T08:40:36.036Z_
 
-### Commercial Director, YouGov Sport UK
+### Research Manager
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Commercial-Director--YouGov-Sport-UK_JR0884)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0884
+- **Tags:** JR0896
 - **Status:** scraped
 
 ### Market Analyst Assistant - Working Student
@@ -70,14 +70,6 @@ _Generated: 2026-07-28T08:34:07.077Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0933
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0896
 - **Status:** scraped
 
 ### HR Operations Executive
