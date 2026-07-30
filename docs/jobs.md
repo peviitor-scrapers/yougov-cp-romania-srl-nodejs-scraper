@@ -10,11 +10,11 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-29 |
+| Last Scraped | 2026-07-30 |
 
-## Current Job Listings (34)
+## Current Job Listings (33)
 
-_Generated: 2026-07-29T08:40:36.036Z_
+_Generated: 2026-07-30T08:26:41.906Z_
 
 ### Research Manager
 
@@ -222,14 +222,6 @@ _Generated: 2026-07-29T08:40:36.036Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0898
-- **Status:** scraped
-
-### Research Executives
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executives_JR0894](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executives_JR0894)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0894
 - **Status:** scraped
 
 ### Business Development Manager
