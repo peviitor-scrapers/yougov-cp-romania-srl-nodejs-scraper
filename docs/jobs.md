@@ -10,11 +10,11 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-30 |
+| Last Scraped | 2026-07-31 |
 
 ## Current Job Listings (33)
 
-_Generated: 2026-07-30T08:26:41.906Z_
+_Generated: 2026-07-31T08:49:28.108Z_
 
 ### Research Manager
 
