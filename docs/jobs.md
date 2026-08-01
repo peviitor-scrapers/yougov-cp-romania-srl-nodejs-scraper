@@ -10,11 +10,11 @@
 | Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-07-31 |
+| Last Scraped | 2026-08-01 |
 
-## Current Job Listings (33)
+## Current Job Listings (31)
 
-_Generated: 2026-07-31T08:49:28.108Z_
+_Generated: 2026-08-01T08:20:47.889Z_
 
 ### Research Manager
 
@@ -208,14 +208,6 @@ _Generated: 2026-07-31T08:49:28.108Z_
 - **Tags:** JR0889
 - **Status:** scraped
 
-### Procurement Manager - IT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Procurement-Business-Partner_JR0861](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Procurement-Business-Partner_JR0861)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0861
-- **Status:** scraped
-
 ### Senior Product Marketing Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Marketing-Manager_JR0898](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Marketing-Manager_JR0898)
@@ -230,14 +222,6 @@ _Generated: 2026-07-31T08:49:28.108Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Account Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Financial-Services_JR0852](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Financial-Services_JR0852)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0852
 - **Status:** scraped
 
 ### Trainee in der Sozialforschung (befristet auf 1 Jahr)
