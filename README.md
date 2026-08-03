@@ -1,9 +1,9 @@
 # job_seeker_ro_spider — YouGov CP Romania Scraper
 
-[![Oportunitati SI Cariere](https://github.com/sebiboga/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml/badge.svg)](https://github.com/sebiboga/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml)
-[![Automation Tests](https://github.com/sebiboga/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/automation-testing.yml/badge.svg)](https://github.com/sebiboga/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/automation-testing.yml)
+[![Oportunitati SI Cariere](https://github.com/peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml/badge.svg)](https://github.com/peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml)
+[![Automation Tests](https://github.com/peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/automation-testing.yml/badge.svg)](https://github.com/peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper/actions/workflows/automation-testing.yml)
 
-[![Version](https://img.shields.io/github/package-json/v/sebiboga/yougov-cp-romania-srl-nodejs-scraper?label=version&color=blue)](CHANGELOG.md)
+[![Version](https://img.shields.io/github/package-json/v/peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper?label=version&color=blue)](CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/javascript-ESM-F7DF1E?logo=javascript&logoColor=black)](https://ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/node-24-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)

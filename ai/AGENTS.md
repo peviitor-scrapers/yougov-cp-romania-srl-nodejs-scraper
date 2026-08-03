@@ -20,7 +20,7 @@ When polling a workflow run, the `gh run view` command implicitly uses the curre
 
 **Always specify the repo explicitly:**
 ```bash
-gh run view <RUN_ID> --repo sebiboga/yougov-cp-romania-srl-nodejs-scraper --json status -q .status
+gh run view <RUN_ID> --repo peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper --json status -q .status
 ```
 
 ### 1. Temporary Files
@@ -62,6 +62,6 @@ npm run test:consistency   # needs GITHUB_REPOSITORY + GITHUB_TOKEN
 See [MAINTENANCE.md](MAINTENANCE.md) for the full maintenance workflow.
 
 **On every session:**
-1. Check open GitHub issues: `gh issue list --repo sebiboga/yougov-cp-romania-srl-nodejs-scraper --state open`
+1. Check open GitHub issues: `gh issue list --repo peviitor-scrapers/yougov-cp-romania-srl-nodejs-scraper --state open`
 2. Prioritize: `critical` → `bug` → `enhancement` → `documentation`
 3. Fix all issues, commit with `#issue` reference, close the issue
