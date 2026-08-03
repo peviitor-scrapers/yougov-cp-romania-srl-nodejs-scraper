@@ -1,52 +1,28 @@
-/**
- * YouGov CP Romania Job Scraper - Main Entry Point
- * 
- * PURPOSE: Scrapes job listings from YouGov Workday Careers API and stores them in Solr.
- * This is the primary orchestrator that coordinates company validation, job scraping,
- * data transformation, and Solr storage.
- */
-
 import fetch from "node-fetch";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { validateAndGetCompany } from "./company.js";
-import { querySOLR, deleteJobByUrl, upsertJobs, upsertCompany } from "./solr.js";
-import { generateJobsMarkdown } from "./src/markdown-generator.js";
+import { querySOLR, upsertJobs, upsertCompany, deleteJobByUrl } from "./api.js";
+import { generateJobsMarkdown } from "./markdown-generator.js";
 import companyConfig from "./config/company.js";
+import scraperConfig from "./config/scraper.js";
 
-// ============================================================================
-// CONFIGURATION CONSTANTS — derived from config/company.json
-// ============================================================================
+const COMPANY_CIF = companyConfig.id;
+const WORKDAY_BASE = scraperConfig.apiBase;
+const WORKDAY_PATH = scraperConfig.apiPath;
+const CAREERS_PATH = scraperConfig.careersPath;
 
-const COMPANY_CIF = companyConfig.cif;
-const WORKDAY_BASE = companyConfig.apiBase;
-const WORKDAY_PATH = companyConfig.apiPath;
-
-// Request timeout in milliseconds (10 seconds)
 const TIMEOUT = 10000;
-
-// Number of jobs to fetch per Workday API page request
 const PAGE_SIZE = 20;
 
-// Global variable to store company name after validation
 let COMPANY_NAME = null;
 
-// ============================================================================
-// HELPER FUNCTIONS
-// ============================================================================
-
-/**
- * Promise-based sleep function to introduce delays between requests
- * @param {number} ms - Milliseconds to sleep
- */
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-/**
- * Searches ANOFM (Agentia Nationala pentru Ocuparea Fortei de Munca) for
- * job listings belonging to the given company CIF. Uses the public ANOFM API.
- * @param {string} cif - Company CIF
- * @returns {Promise<Array>} - Array of job objects { url, title, location, source }
- */
+// ============================================================================
+// ANOFM
+// ============================================================================
+
 async function searchANOFM(cif) {
   const jobs = [];
   try {
@@ -89,18 +65,13 @@ async function searchANOFM(cif) {
 }
 
 // ============================================================================
-// API FUNCTIONS - Fetching data from YouGov Workday Careers
+// WORKDAY API
 // ============================================================================
 
-/**
- * Fetches a single page of jobs from YouGov Workday Careers API
- * @param {number} pageNum - Page number (1-indexed)
- * @returns {Promise<Object>} - API response with job data
- */
 async function fetchJobsPage(pageNum) {
   const offset = (pageNum - 1) * PAGE_SIZE;
   const url = `${WORKDAY_BASE}${WORKDAY_PATH}`;
-  
+
   const res = await fetch(url, {
     method: "POST",
     headers: {
@@ -116,31 +87,21 @@ async function fetchJobsPage(pageNum) {
     }),
     timeout: TIMEOUT
   });
-  
+
   if (!res.ok) {
     throw new Error(`Workday API error ${res.status} for page=${pageNum}`);
   }
-  
-  const data = await res.json();
-  return data;
+
+  return await res.json();
 }
 
-// ============================================================================
-// DATA PARSING - Converting Workday API response to our job model
-// ============================================================================
-
-/**
- * Parses raw Workday API response into our standardized job format
- * @param {Object} apiData - Raw response from Workday API
- * @returns {Object} - Object containing jobs array and total count
- */
 function parseApiJobs(apiData) {
   const postings = apiData.jobPostings || [];
   const total = apiData.total || 0;
-  
+
   return {
     jobs: postings.map(job => {
-      const url = `${WORKDAY_BASE}/en-US/YouGov_External_Careers${job.externalPath}`;
+      const url = `${WORKDAY_BASE}${CAREERS_PATH}${job.externalPath}`;
       const location = [];
       if (job.locationsText) {
         const parts = job.locationsText.split(',').map(s => s.trim());
@@ -150,9 +111,9 @@ function parseApiJobs(apiData) {
           }
         }
       }
-      
+
       const tags = (job.bulletFields || []).filter(Boolean);
-      
+
       return {
         url,
         title: job.title,
@@ -166,15 +127,6 @@ function parseApiJobs(apiData) {
   };
 }
 
-// ============================================================================
-// SCRAPING LOGIC - Paginated collection of all jobs
-// ============================================================================
-
-/**
- * Scrapes all job listings from YouGov Workday by iterating through paginated API responses
- * @param {boolean} testOnlyOnePage - If true, stops after first page (for testing)
- * @returns {Promise<Array>} - Array of unique job objects
- */
 async function scrapeAllListings(testOnlyOnePage = false) {
   const allJobs = [];
   const seenUrls = new Set();
@@ -232,16 +184,9 @@ async function scrapeAllListings(testOnlyOnePage = false) {
 }
 
 // ============================================================================
-// DATA TRANSFORMATION - Preparing jobs for Solr storage
+// DATA TRANSFORMATION
 // ============================================================================
 
-/**
- * Maps raw job data to Solr-compatible job model with timestamps and status
- * @param {Object} rawJob - Job object from scraper
- * @param {string} cif - Company identifier
- * @param {string} companyName - Company name
- * @returns {Object} - Job object ready for Solr storage
- */
 function mapToJobModel(rawJob, cif, companyName = COMPANY_NAME) {
   const now = new Date().toISOString();
 
@@ -262,11 +207,6 @@ function mapToJobModel(rawJob, cif, companyName = COMPANY_NAME) {
   return job;
 }
 
-/**
- * Transforms jobs to match Solr schema and filters for Romanian locations
- * @param {Object} payload - Job payload with jobs array
- * @returns {Object} - Transformed payload ready for Solr
- */
 function transformJobsForSOLR(payload) {
   const romanianCities = [
     'Bucharest', 'București', 'Cluj-Napoca', 'Cluj Napoca',
@@ -314,55 +254,50 @@ function transformJobsForSOLR(payload) {
 }
 
 // ============================================================================
-// MAIN ORCHESTRATION - Coordinates the entire scraping workflow
+// MAIN
 // ============================================================================
 
-/**
- * Main function that orchestrates the complete scraping workflow:
- * 1. Check existing jobs in Solr
- * 2. Validate company via ANAF
- * 3. Scrape jobs from YouGov Workday API
- * 4. Transform data for Solr
- * 5. Upsert jobs to Solr
- * 6. Report summary
- */
 async function main() {
   const testOnlyOnePage = process.argv.includes("--test");
-  
+
   try {
-    fs.mkdirSync("tmp", { recursive: true });
-    console.log("=== Step 1: Get existing jobs count ===");
+    fs.mkdirSync("scraper", { recursive: true });
+
+    console.log("=== Step 1: Get existing jobs from SOLR ===");
     const existingResult = await querySOLR(COMPANY_CIF);
     const existingCount = existingResult.numFound;
+    const existingUrls = new Set(existingResult.docs.map(doc => doc.url).filter(Boolean));
     console.log(`Found ${existingCount} existing jobs in SOLR`);
 
     console.log("=== Step 2: Validate company via ANAF ===");
-    const { company, cif, address } = await validateAndGetCompany();
+    const { company, cif, address, status } = await validateAndGetCompany();
     COMPANY_NAME = company;
-    const localCif = cif;
+    if (status === 'inactive') {
+      console.log("⚠️ Company is INACTIVE — jobs deleted, skipping scrape.");
+      return;
+    }
 
     try {
       await upsertCompany({
         id: cif,
         company,
-        brand: companyConfig.brand,
-        status: "activ",
-        location: address ? [address] : [companyConfig.defaultLocation],
-        website: [companyConfig.website],
-        career: [companyConfig.careerUrl],
-        lastScraped: new Date().toISOString().split('T')[0],
-        scraperFile: companyConfig.scraperFile
+        brand: companyConfig.brand || undefined,
+        status: status === 'active' ? 'activ' : (status || "activ"),
+        location: address ? [address] : companyConfig.location,
+        website: companyConfig.website,
+        career: companyConfig.career,
+        lastScraped: new Date().toISOString().split('T')[0]
       });
     } catch (err) {
-      console.log(`Note: Could not upsert company to SOLR core: ${err.message}`);
+      console.log(`Note: Could not upsert company: ${err.message}`);
     }
-    
+
     const rawJobs = await scrapeAllListings(testOnlyOnePage);
     const scrapedCount = rawJobs.length;
     console.log(`Jobs scraped from YouGov Careers website: ${scrapedCount}`);
 
     if (!testOnlyOnePage) {
-      const anofmJobs = await searchANOFM(localCif);
+      const anofmJobs = await searchANOFM(cif);
       const anofmCount = anofmJobs.length;
       for (const job of anofmJobs) {
         if (!rawJobs.find(j => j.url === job.url)) {
@@ -372,13 +307,13 @@ async function main() {
       console.log(`Jobs added from ANOFM: ${anofmCount}`);
     }
 
-    const jobs = rawJobs.map(job => mapToJobModel(job, localCif));
+    const jobs = rawJobs.map(job => mapToJobModel(job, cif));
 
     const payload = {
       source: "yougov.com",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
-      cif: localCif,
+      cif: cif,
       jobs
     };
 
@@ -387,17 +322,17 @@ async function main() {
     const validCount = transformedPayload.jobs.filter(j => j.location).length;
     console.log(`Jobs with valid Romanian locations: ${validCount}`);
 
-    fs.writeFileSync("tmp/jobs.json", JSON.stringify(transformedPayload, null, 2), "utf-8");
-    console.log("Saved tmp/jobs.json");
+    fs.writeFileSync("scraper/jobs.json", JSON.stringify(transformedPayload, null, 2), "utf-8");
+    console.log("Saved scraper/jobs.json");
 
     const companyData = {
-      id: localCif,
+      id: cif,
       company: transformedPayload.company,
-      brand: companyConfig.brand,
-      status: "activ",
-      location: address ? [address] : [companyConfig.defaultLocation],
-      website: [companyConfig.website],
-      career: [companyConfig.careerUrl],
+      brand: companyConfig.brand || undefined,
+      status: status === 'active' ? 'activ' : (status || "activ"),
+      location: address ? [address] : companyConfig.location,
+      website: companyConfig.website,
+      career: companyConfig.career,
       lastScraped: new Date().toISOString().split('T')[0]
     };
     const markdown = generateJobsMarkdown(companyData, transformedPayload.jobs);
@@ -405,16 +340,40 @@ async function main() {
     fs.writeFileSync("docs/jobs.md", markdown, "utf-8");
     console.log("Saved docs/jobs.md");
 
-    fs.writeFileSync("docs/company.json", JSON.stringify(companyConfig, null, 2), "utf-8");
-    console.log("Saved docs/company.json");
+    fs.copyFileSync("scraper/config/company.json", "docs/company.json");
+    console.log("Copied scraper/config/company.json → docs/company.json");
 
-    console.log("\n=== Step 6: Upsert jobs to SOLR ===");
+    console.log("\n=== Step 4: Upsert jobs to SOLR ===");
     await upsertJobs(transformedPayload.jobs);
 
+    const scrapedUrls = new Set(transformedPayload.jobs.map(job => job.url));
+    const staleUrls = [...existingUrls].filter(url => !scrapedUrls.has(url));
+
+    if (staleUrls.length > 0) {
+      console.log(`\n=== Step 4.5: Delete ${staleUrls.length} stale job(s) ===`);
+      let deletedCount = 0;
+      for (const url of staleUrls) {
+        try {
+          console.log(`  Deleting: ${url}`);
+          await deleteJobByUrl(url);
+          deletedCount++;
+        } catch (delErr) {
+          console.warn(`  ⚠️ Failed to delete: ${url} — ${delErr.message}`);
+        }
+      }
+      console.log(`✅ Deleted ${deletedCount}/${staleUrls.length} stale job(s)`);
+    } else {
+      console.log("\n✅ No stale jobs to delete");
+    }
+
+    console.log("\n=== Step 5: Summary ===");
+
+    await new Promise(r => setTimeout(r, 2000));
     const finalResult = await querySOLR(COMPANY_CIF);
     console.log(`\n=== SUMMARY ===`);
     console.log(`Jobs existing in SOLR before scrape: ${existingCount}`);
     console.log(`Jobs scraped from YouGov website: ${scrapedCount}`);
+    console.log(`Stale jobs attempted: ${staleUrls.length}`);
     console.log(`Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);
 
@@ -427,10 +386,8 @@ async function main() {
   }
 }
 
-// Export functions for testing
 export { parseApiJobs, mapToJobModel, transformJobsForSOLR };
 
-// Run main function when executed directly
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();
 }

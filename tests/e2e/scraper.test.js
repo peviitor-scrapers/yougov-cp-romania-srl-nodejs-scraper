@@ -1,20 +1,5 @@
 import { jest } from '@jest/globals';
-import dotenv from 'dotenv';
-import path from 'path';
-import { fileURLToPath } from 'url';
 import fetch from 'node-fetch';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-dotenv.config({ path: path.resolve(__dirname, '../../.env.local') });
-
-const HAS_SOLR = !!process.env.SOLR_AUTH;
-
-function itIfSolr(name, fn, timeout) {
-  if (HAS_SOLR) {
-    return it(name, fn, timeout);
-  }
-  return it.skip(`${name} (skipped: SOLR_AUTH not set)`, fn, timeout);
-}
 
 let HAS_ANAF = false;
 
@@ -39,9 +24,6 @@ function itIfAnaf(name, fn, timeout) {
 
 beforeAll(async () => {
   HAS_ANAF = await checkAnafAvailability();
-  if (HAS_SOLR) {
-    process.env.SOLR_AUTH = process.env.SOLR_AUTH;
-  }
 });
 
 const TEST_CIF = '48869513';
@@ -97,7 +79,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let apiData;
 
     beforeAll(async () => {
-      index = await import('../../index.js');
+      index = await import('../../scraper/index.js');
       const res = await fetch(WORKDAY_API_URL, {
         method: 'POST',
         headers: {
@@ -191,8 +173,8 @@ describe('E2E: Full Scraping Pipeline', () => {
     let company;
 
     beforeAll(async () => {
-      anaf = await import('../../src/anaf.js');
-      company = await import('../../company.js');
+      anaf = await import('../../scraper/anaf.js');
+      company = await import('../../scraper/company.js');
     });
 
     itIfAnaf('should find YouGov in ANAF and validate active status', async () => {
@@ -210,7 +192,7 @@ describe('E2E: Full Scraping Pipeline', () => {
       expect(anafData.inactive).toBe(false);
     }, 30000);
 
-    itIfSolr('should run full validation and report active status with job count', async () => {
+    it('should run full validation and report active status with job count', async () => {
       const result = await company.validateAndGetCompany();
 
       expect(result.status).toBe('active');
@@ -229,7 +211,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let anaf;
 
     beforeAll(async () => {
-      anaf = await import('../../src/anaf.js');
+      anaf = await import('../../scraper/anaf.js');
     });
 
     itIfAnaf('should detect inactive/radiated companies via ANAF', async () => {
@@ -251,15 +233,15 @@ describe('E2E: Full Scraping Pipeline', () => {
     }, 30000);
   });
 
-  describe('SOLR Data Verification', () => {
-    let solr;
+  describe('Peviitor API Data Verification', () => {
+    let api;
 
     beforeAll(async () => {
-      solr = await import('../../solr.js');
+      api = await import('../../scraper/api.js');
     });
 
-    itIfSolr('should have YouGov jobs in SOLR with correct company name', async () => {
-      const result = await solr.querySOLR(TEST_CIF);
+    it('should have YouGov jobs in SOLR with correct company name', async () => {
+      const result = await api.querySOLR(TEST_CIF);
 
       if (result.numFound === 0) {
         console.log('No YouGov jobs in Solr — skipping SOLR data verification');
@@ -270,15 +252,6 @@ describe('E2E: Full Scraping Pipeline', () => {
         expect(job.company).toBe('YOUGOV CP ROMANIA S.R.L.');
         expect(job.cif).toBe(TEST_CIF);
       }
-    }, 15000);
-
-    itIfSolr('should have YouGov company core entry with required fields', async () => {
-      const result = await solr.queryCompanySOLR(`id:${TEST_CIF}`);
-
-      expect(result.numFound).toBe(1);
-      const yougov = result.docs[0];
-      expect(yougov.company).toBe('YOUGOV CP ROMANIA S.R.L.');
-      expect(yougov.status).toBe('activ');
     }, 15000);
   });
 });

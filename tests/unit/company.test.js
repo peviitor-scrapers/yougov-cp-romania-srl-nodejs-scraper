@@ -42,10 +42,10 @@ function peviitorResponse(companies) {
   };
 }
 
-function solrResponse(numFound, docs) {
+function solrResponse(total, data) {
   return {
     ok: true,
-    json: async () => ({ response: { numFound, docs } })
+    json: async () => ({ total, data })
   };
 }
 
@@ -64,15 +64,13 @@ describe('company.js', () => {
   let company;
 
   beforeAll(async () => {
-    process.env.SOLR_AUTH = 'test:test';
     fs.mkdirSync("tmp", { recursive: true });
     backupFile(COMPANY_JSON_PATH);
     backupFile(ROOT_COMPANY_JSON_PATH);
-    company = await import('../../company.js');
+    company = await import('../../scraper/company.js');
   });
 
   afterAll(() => {
-    delete process.env.SOLR_AUTH;
     restoreFile(COMPANY_JSON_PATH);
     restoreFile(ROOT_COMPANY_JSON_PATH);
   });

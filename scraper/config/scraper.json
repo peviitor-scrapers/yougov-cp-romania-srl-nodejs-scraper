@@ -1,0 +1,5 @@
+{
+  "apiBase": "https://yougov.wd103.myworkdayjobs.com",
+  "apiPath": "/wday/cxs/yougov/YouGov_External_Careers/jobs",
+  "careersPath": "/en-US/YouGov_External_Careers"
+}

@@ -7,14 +7,14 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | GRIGORE ALEXANDRESCU, 89-97, Bucureşti Sectorul 1, Bucureşti |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-02 |
+| Last Scraped | 2026-08-03 |
 
 ## Current Job Listings (31)
 
-_Generated: 2026-08-02T08:23:53.205Z_
+_Generated: 2026-08-03T05:23:48.175Z_
 
 ### Research Manager
 
@@ -32,7 +32,7 @@ _Generated: 2026-08-02T08:23:53.205Z_
 - **Tags:** JR0938
 - **Status:** scraped
 
-### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Multinational Client Management Team
+### Praktikant\*in oder Werkstudent\*in (m/w/d) in Market Research im Multinational Client Management Team
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939)
 - **Work Mode:** hybrid
@@ -48,7 +48,7 @@ _Generated: 2026-08-02T08:23:53.205Z_
 - **Tags:** JR0850
 - **Status:** scraped
 
-### Praktikant*in oder Werkstudent*in (m/w/d) in Market Research im Advanced Solutions Team
+### Praktikant\*in oder Werkstudent\*in (m/w/d) in Market Research im Advanced Solutions Team
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0919](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0919)
 - **Work Mode:** hybrid
@@ -112,7 +112,7 @@ _Generated: 2026-08-02T08:23:53.205Z_
 - **Tags:** JR0912
 - **Status:** scraped
 
-### Werkstudent*in - CP Hotline (m/w/d)
+### Werkstudent\*in - CP Hotline (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in---CP-Hotline--m-w-d-_JR0914-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in---CP-Hotline--m-w-d-_JR0914-1)
 - **Work Mode:** hybrid
@@ -128,7 +128,7 @@ _Generated: 2026-08-02T08:23:53.205Z_
 - **Tags:** JR0913
 - **Status:** scraped
 
-### Werkstudent*in im Team YouGov Account Management & New Business Development  (m/w/d)
+### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
 - **Work Mode:** hybrid

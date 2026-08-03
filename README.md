@@ -30,27 +30,27 @@ Proiectul automatizează colectarea zilnică a job-urilor YouGov din România, m
 ## Architecture
 
 ```
-config/company.json  →  Single source of truth for company identity
-index.js             →  Main scraper (Workday API + ANOFM)
-company.js           →  ANAF validation
-solr.js              →  SOLR storage
-src/anaf.js          →  ANAF API client
-tests/               →  Unit, integration, E2E, consistency tests
-docs/                →  GitHub Pages dashboard
+scraper/config/company.json  →  Single source of truth for company identity
+scraper/config/scraper.json  →  API endpoints (Workday base + path)
+scraper/index.js             →  Main scraper (Workday API + ANOFM)
+scraper/company.js           →  ANAF validation
+scraper/api.js               →  Peviitor API (job + company cores)
+scraper/anaf.js              →  ANAF API client
+tests/                       →  Unit, integration, E2E, consistency tests
+docs/                        →  GitHub Pages dashboard
 ```
 
 ## Setup
 
 1. Clone the repo
 2. Run `npm install`
-3. Set `SOLR_AUTH` environment variable
-4. Run `npm run scrape`
+3. Run `npm run scrape`
 
 ## Testing
 
 ```bash
 npm run test:unit          # Unit tests
-npm run test:integration   # Integration tests (needs SOLR_AUTH)
+npm run test:integration   # Integration tests (needs ANAF)
 npm run test:e2e           # E2E tests (needs network)
 npm run test:consistency   # Consistency tests (needs GITHUB_REPOSITORY)
 npm test                   # All tests

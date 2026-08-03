@@ -1,5 +1,5 @@
 {
-  "name": "yougov-cp-romania-scraper-tests",
+  "name": "yougov-scraper-tests",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
