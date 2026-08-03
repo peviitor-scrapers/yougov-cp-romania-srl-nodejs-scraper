@@ -7,14 +7,14 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
 | Last Scraped | 2026-08-03 |
 
 ## Current Job Listings (31)
 
-_Generated: 2026-08-03T05:23:48.175Z_
+_Generated: 2026-08-03T09:43:22.395Z_
 
 ### Research Manager
 
