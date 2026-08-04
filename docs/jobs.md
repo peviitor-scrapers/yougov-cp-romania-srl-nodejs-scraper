@@ -10,11 +10,27 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-03 |
+| Last Scraped | 2026-08-04 |
 
-## Current Job Listings (31)
+## Current Job Listings (32)
 
-_Generated: 2026-08-03T09:43:22.395Z_
+_Generated: 2026-08-04T08:35:57.472Z_
+
+### Senior Research Executive (Quantitative) - Financial Services (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0937
+- **Status:** scraped
+
+### Business Development Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0897
+- **Status:** scraped
 
 ### Research Manager
 
@@ -214,14 +230,6 @@ _Generated: 2026-08-03T09:43:22.395Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0898
-- **Status:** scraped
-
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0897
 - **Status:** scraped
 
 ### Trainee in der Sozialforschung (befristet auf 1 Jahr)
