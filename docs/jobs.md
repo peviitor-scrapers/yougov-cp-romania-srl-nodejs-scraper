@@ -7,14 +7,46 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-04 |
+| Last Scraped | 2026-08-05 |
 
-## Current Job Listings (32)
+## Current Job Listings (34)
 
-_Generated: 2026-08-04T08:35:57.472Z_
+_Generated: 2026-08-05T08:35:17.005Z_
+
+### Junior Research Executive (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0946](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0946)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0946
+- **Status:** scraped
+
+### Junior Research Executive (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0945
+- **Status:** scraped
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0896
+- **Status:** scraped
+
+### HR Operations Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0930
+- **Status:** scraped
 
 ### Senior Research Executive (Quantitative) - Financial Services (m/w/d)
 
@@ -30,14 +62,6 @@ _Generated: 2026-08-04T08:35:57.472Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0896
 - **Status:** scraped
 
 ### Market Analyst Assistant - Working Student
@@ -86,14 +110,6 @@ _Generated: 2026-08-04T08:35:57.472Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0933
-- **Status:** scraped
-
-### HR Operations Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0930
 - **Status:** scraped
 
 ### Junior Research Consultant, Financial Services & Media
