@@ -7,14 +7,14 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-05 |
+| Last Scraped | 2026-08-06 |
 
-## Current Job Listings (34)
+## Current Job Listings (30)
 
-_Generated: 2026-08-05T08:35:17.005Z_
+_Generated: 2026-08-06T08:35:35.113Z_
 
 ### Junior Research Executive (m/w/d)
 
@@ -168,14 +168,6 @@ _Generated: 2026-08-05T08:35:17.005Z_
 - **Tags:** JR0877
 - **Status:** scraped
 
-### Student Research Assistant (part-time)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Student-Research-Assistant--part-time-_JR0883](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Student-Research-Assistant--part-time-_JR0883)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0883
-- **Status:** scraped
-
 ### Research Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Manager_JR0904-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Manager_JR0904-2)
@@ -208,14 +200,6 @@ _Generated: 2026-08-05T08:35:17.005Z_
 - **Tags:** JR0907
 - **Status:** scraped
 
-### Praktikum Research & Insights – FMCG & Retail, 12 Monate
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Praktikum-Research---Insights---FMCG---Retail--12-Monate_JR0903](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Praktikum-Research---Insights---FMCG---Retail--12-Monate_JR0903)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0903
-- **Status:** scraped
-
 ### Junior Business Development Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Stockholm-Sweden/Junior-Business-Development-Manager_JR0887-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Stockholm-Sweden/Junior-Business-Development-Manager_JR0887-1)
@@ -240,14 +224,6 @@ _Generated: 2026-08-05T08:35:17.005Z_
 - **Tags:** JR0889
 - **Status:** scraped
 
-### Senior Product Marketing Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Marketing-Manager_JR0898](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Marketing-Manager_JR0898)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0898
-- **Status:** scraped
-
 ### Trainee in der Sozialforschung (befristet auf 1 Jahr)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880)
@@ -270,14 +246,6 @@ _Generated: 2026-08-05T08:35:17.005Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0835
-- **Status:** scraped
-
-### Senior Group Accountant - FTC
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Group-Accountant---FTC_JR0863](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Group-Accountant---FTC_JR0863)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0863
 - **Status:** scraped
 
 ### Stage de fin d'études – Chargé(e) d’études marketing
