@@ -7,14 +7,30 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-06 |
+| Last Scraped | 2026-08-07 |
 
-## Current Job Listings (30)
+## Current Job Listings (32)
 
-_Generated: 2026-08-06T08:35:35.113Z_
+_Generated: 2026-08-07T07:14:46.505Z_
+
+### Business Development Manager (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0926
+- **Status:** scraped
+
+### NETSUITE ARCHITECT
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0952
+- **Status:** scraped
 
 ### Junior Research Executive (m/w/d)
 
