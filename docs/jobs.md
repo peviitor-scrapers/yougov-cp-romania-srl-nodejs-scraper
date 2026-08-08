@@ -10,18 +10,42 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-07 |
+| Last Scraped | 2026-08-08 |
 
-## Current Job Listings (32)
+## Current Job Listings (31)
 
-_Generated: 2026-08-07T07:14:46.505Z_
+_Generated: 2026-08-08T06:51:46.697Z_
 
-### Business Development Manager (m/w/d)
+### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0926
+- **Tags:** JR0877
+- **Status:** scraped
+
+### Senior Research Executive - Financial Services (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0937
+- **Status:** scraped
+
+### Junior Research Executive (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0945
+- **Status:** scraped
+
+### Werkstudent\*in oder Praktikant\*in (m/w/d) in Market Research im Multinational Client Management Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0939
 - **Status:** scraped
 
 ### NETSUITE ARCHITECT
@@ -32,20 +56,28 @@ _Generated: 2026-08-07T07:14:46.505Z_
 - **Tags:** JR0952
 - **Status:** scraped
 
-### Junior Research Executive (m/w/d)
+### Sales Representative (m/w/d)
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0946](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0946)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0946
+- **Tags:** JR0925
 - **Status:** scraped
 
-### Junior Research Executive (m/w/d)
+### Werkstudent\*in FMCG & Other Sectors (m/w/d)
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-FMCG---Other-Sectors--m-w-d-_JR0954](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-FMCG---Other-Sectors--m-w-d-_JR0954)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0945
+- **Tags:** JR0954
+- **Status:** scraped
+
+### Business Development Manager (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/XMLNAME--Senior--Account-Manager--m-w-d-_JR0926-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0926
 - **Status:** scraped
 
 ### Research Manager
@@ -64,14 +96,6 @@ _Generated: 2026-08-07T07:14:46.505Z_
 - **Tags:** JR0930
 - **Status:** scraped
 
-### Senior Research Executive (Quantitative) - Financial Services (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0937
-- **Status:** scraped
-
 ### Business Development Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
@@ -86,14 +110,6 @@ _Generated: 2026-08-07T07:14:46.505Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0938
-- **Status:** scraped
-
-### Praktikant\*in oder Werkstudent\*in (m/w/d) in Market Research im Multinational Client Management Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0939
 - **Status:** scraped
 
 ### Senior Data Scientist
@@ -136,22 +152,6 @@ _Generated: 2026-08-07T07:14:46.505Z_
 - **Tags:** JR0929
 - **Status:** scraped
 
-### Working Student FMCG Product Classification
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Working-Student-FMCG-Product-Classification_JR0917](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Working-Student-FMCG-Product-Classification_JR0917)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0917
-- **Status:** scraped
-
-### Sales Representative (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0925
-- **Status:** scraped
-
 ### Account Director
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912)
@@ -174,14 +174,6 @@ _Generated: 2026-08-07T07:14:46.505Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0913
-- **Status:** scraped
-
-### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0877
 - **Status:** scraped
 
 ### Research Manager
