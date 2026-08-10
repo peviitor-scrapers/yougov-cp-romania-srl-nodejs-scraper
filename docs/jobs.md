@@ -10,11 +10,19 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-09 |
+| Last Scraped | 2026-08-10 |
 
-## Current Job Listings (31)
+## Current Job Listings (32)
 
-_Generated: 2026-08-09T06:55:33.782Z_
+_Generated: 2026-08-10T07:40:02.979Z_
+
+### Research Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executive_JR0895](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executive_JR0895)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0895
+- **Status:** scraped
 
 ### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
 
