@@ -7,14 +7,22 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-10 |
+| Last Scraped | 2026-08-11 |
 
-## Current Job Listings (32)
+## Current Job Listings (31)
 
-_Generated: 2026-08-10T07:40:02.979Z_
+_Generated: 2026-08-11T07:06:28.513Z_
+
+### Research Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR0873-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR0873-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0873
+- **Status:** scraped
 
 ### Research Executive
 
@@ -152,14 +160,6 @@ _Generated: 2026-08-10T07:40:02.979Z_
 - **Tags:** JR0933
 - **Status:** scraped
 
-### Junior Research Consultant, Financial Services & Media
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0929
-- **Status:** scraped
-
 ### Account Director
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912)
@@ -174,14 +174,6 @@ _Generated: 2026-08-10T07:40:02.979Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0914
-- **Status:** scraped
-
-### Junior Research Consultant - Real Estate & Industries
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0913
 - **Status:** scraped
 
 ### Research Manager
