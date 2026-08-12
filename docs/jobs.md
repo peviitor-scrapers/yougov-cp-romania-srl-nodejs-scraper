@@ -7,14 +7,30 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-11 |
+| Last Scraped | 2026-08-12 |
 
-## Current Job Listings (31)
+## Current Job Listings (33)
 
-_Generated: 2026-08-11T07:06:28.513Z_
+_Generated: 2026-08-12T07:23:51.261Z_
+
+### Research Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR0958](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR0958)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0958
+- **Status:** scraped
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Manager_JR0947](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Manager_JR0947)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0947
+- **Status:** scraped
 
 ### Research Executive
 
