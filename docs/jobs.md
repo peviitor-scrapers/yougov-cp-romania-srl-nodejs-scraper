@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-13 |
+| Last Scraped | 2026-08-14 |
 
 ## Current Job Listings (33)
 
-_Generated: 2026-08-13T07:25:59.433Z_
+_Generated: 2026-08-14T07:23:51.580Z_
+
+### Client Services Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Toronto-Canada/Client-Services-Analyst_JR0964](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Toronto-Canada/Client-Services-Analyst_JR0964)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0964
+- **Status:** scraped
 
 ### Research Director
 
@@ -30,14 +38,6 @@ _Generated: 2026-08-13T07:25:59.433Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0947
-- **Status:** scraped
-
-### Research Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR0873-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR0873-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0873
 - **Status:** scraped
 
 ### Research Executive
