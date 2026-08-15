@@ -7,14 +7,14 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-14 |
+| Last Scraped | 2026-08-15 |
 
-## Current Job Listings (33)
+## Current Job Listings (32)
 
-_Generated: 2026-08-14T07:23:51.580Z_
+_Generated: 2026-08-15T06:36:29.154Z_
 
 ### Client Services Analyst
 
@@ -30,14 +30,6 @@ _Generated: 2026-08-14T07:23:51.580Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0958
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Manager_JR0947](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Manager_JR0947)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0947
 - **Status:** scraped
 
 ### Research Executive
