@@ -7,14 +7,14 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-15 |
+| Last Scraped | 2026-08-16 |
 
 ## Current Job Listings (32)
 
-_Generated: 2026-08-15T06:36:29.154Z_
+_Generated: 2026-08-16T06:38:40.228Z_
 
 ### Client Services Analyst
 
