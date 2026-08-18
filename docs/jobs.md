@@ -7,29 +7,21 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-17 |
+| Last Scraped | 2026-08-18 |
 
-## Current Job Listings (32)
+## Current Job Listings (27)
 
-_Generated: 2026-08-17T06:54:08.408Z_
+_Generated: 2026-08-18T06:41:45.642Z_
 
-### Client Services Analyst
+### Business Development Manager
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Toronto-Canada/Client-Services-Analyst_JR0964](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Toronto-Canada/Client-Services-Analyst_JR0964)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0964
-- **Status:** scraped
-
-### Research Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR0958](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR0958)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0958
+- **Tags:** JR0897
 - **Status:** scraped
 
 ### Research Executive
@@ -120,22 +112,6 @@ _Generated: 2026-08-17T06:54:08.408Z_
 - **Tags:** JR0930
 - **Status:** scraped
 
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0897
-- **Status:** scraped
-
-### Market Analyst Assistant - Working Student
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Market-Analyst-Assistant---Working-Student_JR0938](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Market-Analyst-Assistant---Working-Student_JR0938)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0938
-- **Status:** scraped
-
 ### Senior Data Scientist
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Senior-Data-Scientist_JR0850](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Senior-Data-Scientist_JR0850)
@@ -166,22 +142,6 @@ _Generated: 2026-08-17T06:54:08.408Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0933
-- **Status:** scraped
-
-### Account Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Director_JR0912)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0912
-- **Status:** scraped
-
-### Werkstudent\*in - CP Hotline (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in---CP-Hotline--m-w-d-_JR0914-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in---CP-Hotline--m-w-d-_JR0914-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0914
 - **Status:** scraped
 
 ### Research Manager
