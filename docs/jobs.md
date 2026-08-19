@@ -10,11 +10,19 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-18 |
+| Last Scraped | 2026-08-19 |
 
-## Current Job Listings (27)
+## Current Job Listings (24)
 
-_Generated: 2026-08-18T06:41:45.642Z_
+_Generated: 2026-08-19T06:42:18.372Z_
+
+### Finance-Specialist 80-100% (m/w/d) – befristet auf 1 Jahr
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0972
+- **Status:** scraped
 
 ### Business Development Manager
 
@@ -22,14 +30,6 @@ _Generated: 2026-08-18T06:41:45.642Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Research Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executive_JR0895](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Research-Executive_JR0895)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0895
 - **Status:** scraped
 
 ### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
@@ -46,14 +46,6 @@ _Generated: 2026-08-18T06:41:45.642Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0937
-- **Status:** scraped
-
-### Junior Research Executive (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Junior-Research-Executive--m-w-d-_JR0945)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0945
 - **Status:** scraped
 
 ### Werkstudent\*in oder Praktikant\*in (m/w/d) in Market Research im Multinational Client Management Team
@@ -118,14 +110,6 @@ _Generated: 2026-08-18T06:41:45.642Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0850
-- **Status:** scraped
-
-### Praktikant\*in oder Werkstudent\*in (m/w/d) in Market Research im Advanced Solutions Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0919](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR0919)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0919
 - **Status:** scraped
 
 ### Werkstudent:in (m/w/d) - Media & Entertainment
@@ -206,14 +190,6 @@ _Generated: 2026-08-18T06:41:45.642Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0880
-- **Status:** scraped
-
-### Business Development Assistant (Part-time)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Business-Development-Assistant--Part-time-_JR0868](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Business-Development-Assistant--Part-time-_JR0868)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0868
 - **Status:** scraped
 
 ### Survey Operations Analyst I
