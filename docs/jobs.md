@@ -10,11 +10,19 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-19 |
+| Last Scraped | 2026-08-20 |
 
-## Current Job Listings (24)
+## Current Job Listings (25)
 
-_Generated: 2026-08-19T06:42:18.372Z_
+_Generated: 2026-08-20T06:43:42.797Z_
+
+### Werkstudent/in (m/w/d) im YouGov Shopper Panel, Globales Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0978
+- **Status:** scraped
 
 ### Finance-Specialist 80-100% (m/w/d) – befristet auf 1 Jahr
 
