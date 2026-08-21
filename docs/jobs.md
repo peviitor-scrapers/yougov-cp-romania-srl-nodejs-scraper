@@ -7,14 +7,30 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-20 |
+| Last Scraped | 2026-08-21 |
 
-## Current Job Listings (25)
+## Current Job Listings (24)
 
-_Generated: 2026-08-20T06:43:42.797Z_
+_Generated: 2026-08-21T06:44:10.713Z_
+
+### Record to Report Accountant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0980
+- **Status:** scraped
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0982
+- **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im YouGov Shopper Panel, Globales Team
 
@@ -62,14 +78,6 @@ _Generated: 2026-08-20T06:43:42.797Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0939
-- **Status:** scraped
-
-### NETSUITE ARCHITECT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0952
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
@@ -160,14 +168,6 @@ _Generated: 2026-08-20T06:43:42.797Z_
 - **Tags:** JR0704
 - **Status:** scraped
 
-### Stage de fin d'études - Sales Development Representative (SDR)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0907](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0907)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0907
-- **Status:** scraped
-
 ### Junior Business Development Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Stockholm-Sweden/Junior-Business-Development-Manager_JR0887-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Stockholm-Sweden/Junior-Business-Development-Manager_JR0887-1)
@@ -198,14 +198,6 @@ _Generated: 2026-08-20T06:43:42.797Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0880
-- **Status:** scraped
-
-### Survey Operations Analyst I
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Boulder-United-States-of-America/Survey-Operations-Analyst-I_JR0835](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Boulder-United-States-of-America/Survey-Operations-Analyst-I_JR0835)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0835
 - **Status:** scraped
 
 ### Stage de fin d'études – Chargé(e) d’études marketing
