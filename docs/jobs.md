@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-21 |
+| Last Scraped | 2026-08-22 |
 
-## Current Job Listings (24)
+## Current Job Listings (25)
 
-_Generated: 2026-08-21T06:44:10.713Z_
+_Generated: 2026-08-22T06:38:17.495Z_
+
+### Consultant Multinational Retailer (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0979
+- **Status:** scraped
 
 ### Record to Report Accountant
 
