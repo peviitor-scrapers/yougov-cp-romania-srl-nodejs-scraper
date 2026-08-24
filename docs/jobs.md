@@ -10,11 +10,19 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-23 |
+| Last Scraped | 2026-08-24 |
 
-## Current Job Listings (25)
+## Current Job Listings (26)
 
-_Generated: 2026-08-23T06:39:40.995Z_
+_Generated: 2026-08-24T06:56:58.513Z_
+
+### NETSUITE ARCHITECT
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0952
+- **Status:** scraped
 
 ### Consultant Multinational Retailer (m/w/d)
 
