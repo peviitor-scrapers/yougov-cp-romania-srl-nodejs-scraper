@@ -10,11 +10,19 @@
 | Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-24 |
+| Last Scraped | 2026-08-25 |
 
-## Current Job Listings (26)
+## Current Job Listings (27)
 
-_Generated: 2026-08-24T06:56:58.513Z_
+_Generated: 2026-08-25T06:45:37.181Z_
+
+### Sales Support Representative - Intern
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0981
+- **Status:** scraped
 
 ### NETSUITE ARCHITECT
 
