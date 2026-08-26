@@ -7,14 +7,22 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-25 |
+| Last Scraped | 2026-08-26 |
 
 ## Current Job Listings (27)
 
-_Generated: 2026-08-25T06:45:37.181Z_
+_Generated: 2026-08-26T06:48:08.099Z_
+
+### Senior Product Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0985
+- **Status:** scraped
 
 ### Sales Support Representative - Intern
 
@@ -94,14 +102,6 @@ _Generated: 2026-08-25T06:45:37.181Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0937
-- **Status:** scraped
-
-### Werkstudent\*in oder Praktikant\*in (m/w/d) in Market Research im Multinational Client Management Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikant-in-oder-Werkstudent-in--m-w-d--in-Market-Research-im-Multinational-Client-Management-Team_JR0939)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0939
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
