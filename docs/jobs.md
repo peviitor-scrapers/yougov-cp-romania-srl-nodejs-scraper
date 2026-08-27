@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-26 |
+| Last Scraped | 2026-08-27 |
 
-## Current Job Listings (27)
+## Current Job Listings (26)
 
-_Generated: 2026-08-26T06:48:08.099Z_
+_Generated: 2026-08-27T17:22:02.647Z_
+
+### Account Manager - Consumer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0968
+- **Status:** scraped
+
+### NETSUITE ARCHITECT
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0952
+- **Status:** scraped
 
 ### Senior Product Manager
 
@@ -30,14 +46,6 @@ _Generated: 2026-08-26T06:48:08.099Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0981
-- **Status:** scraped
-
-### NETSUITE ARCHITECT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0952
 - **Status:** scraped
 
 ### Consultant Multinational Retailer (m/w/d)
@@ -144,28 +152,12 @@ _Generated: 2026-08-26T06:48:08.099Z_
 - **Tags:** JR0930
 - **Status:** scraped
 
-### Senior Data Scientist
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Senior-Data-Scientist_JR0850](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Senior-Data-Scientist_JR0850)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0850
-- **Status:** scraped
-
 ### Werkstudent:in (m/w/d) - Media & Entertainment
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d----Media---Entertainment_JR0934](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d----Media---Entertainment_JR0934)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0934
-- **Status:** scraped
-
-### Client Service Consultant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Client-Service-Consultant_JR0933-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Client-Service-Consultant_JR0933-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0933
 - **Status:** scraped
 
 ### Research Manager
