@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-27 |
+| Last Scraped | 2026-08-28 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-08-27T17:22:02.647Z_
+_Generated: 2026-08-28T18:14:56.140Z_
+
+### Werkstudent\*in Vertrieb & Business Development (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0877
+- **Status:** scraped
+
+### Associate Director - Business Development
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Associate-Director---Business-Development_JR0991](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Associate-Director---Business-Development_JR0991)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0991
+- **Status:** scraped
 
 ### Account Manager - Consumer
 
@@ -64,14 +80,6 @@ _Generated: 2026-08-27T17:22:02.647Z_
 - **Tags:** JR0980
 - **Status:** scraped
 
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0982
-- **Status:** scraped
-
 ### Werkstudent/in (m/w/d) im YouGov Shopper Panel, Globales Team
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
@@ -94,14 +102,6 @@ _Generated: 2026-08-27T17:22:02.647Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Werkstudent\*in im Team YouGov Account Management & New Business Development  (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0877
 - **Status:** scraped
 
 ### Senior Research Executive - Financial Services (m/w/d)
