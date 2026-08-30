@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-29 |
+| Last Scraped | 2026-08-30 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-08-29T12:22:23.573Z_
+_Generated: 2026-08-30T11:21:10.385Z_
 
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
 
