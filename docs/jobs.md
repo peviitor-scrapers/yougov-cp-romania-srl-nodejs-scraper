@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-08-30 |
+| Last Scraped | 2026-08-31 |
 
-## Current Job Listings (26)
+## Current Job Listings (25)
 
-_Generated: 2026-08-30T11:21:10.385Z_
+_Generated: 2026-08-31T12:49:46.718Z_
 
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
 
@@ -46,14 +46,6 @@ _Generated: 2026-08-30T11:21:10.385Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0952
-- **Status:** scraped
-
-### Senior Product Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0985
 - **Status:** scraped
 
 ### Sales Support Representative - Intern
