@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-01 |
+| Last Scraped | 2026-09-02 |
 
 ## Current Job Listings (25)
 
-_Generated: 2026-09-01T11:10:58.788Z_
+_Generated: 2026-09-02T10:43:41.286Z_
+
+### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0978
+- **Status:** scraped
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0896
+- **Status:** scraped
 
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
 
@@ -72,14 +88,6 @@ _Generated: 2026-09-01T11:10:58.788Z_
 - **Tags:** JR0980
 - **Status:** scraped
 
-### Werkstudent/in (m/w/d) im YouGov Shopper Panel, Globales Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0978
-- **Status:** scraped
-
 ### Finance-Specialist 80-100% (m/w/d) – befristet auf 1 Jahr
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972)
@@ -126,14 +134,6 @@ _Generated: 2026-09-01T11:10:58.788Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0926
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0896
 - **Status:** scraped
 
 ### HR Operations Executive
