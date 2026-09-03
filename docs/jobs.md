@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-02 |
+| Last Scraped | 2026-09-03 |
 
-## Current Job Listings (25)
+## Current Job Listings (24)
 
-_Generated: 2026-09-02T10:43:41.286Z_
+_Generated: 2026-09-03T10:44:51.009Z_
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
 
@@ -158,14 +158,6 @@ _Generated: 2026-09-02T10:43:41.286Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0904
-- **Status:** scraped
-
-### Senior Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Senior-Research-Manager_JR0906](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Senior-Research-Manager_JR0906)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0906
 - **Status:** scraped
 
 ### Senior Tax Manager
