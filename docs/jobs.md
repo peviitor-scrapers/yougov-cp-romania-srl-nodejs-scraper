@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
-## Current Job Listings (24)
+## Current Job Listings (26)
 
-_Generated: 2026-09-03T10:44:51.009Z_
+_Generated: 2026-09-04T10:47:35.765Z_
+
+### Stage de fin d'études - Sales Development Representative (SDR)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0984
+- **Status:** scraped
+
+### Technical Quality Assurance Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0971
+- **Status:** scraped
+
+### Lead Product Manager – Data Products
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Lead-Product-Manager---Data-Products_JR1001](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Lead-Product-Manager---Data-Products_JR1001)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1001
+- **Status:** scraped
+
+### NETSUITE ARCHITECT
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0952
+- **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
 
@@ -54,14 +86,6 @@ _Generated: 2026-09-03T10:44:51.009Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0968
-- **Status:** scraped
-
-### NETSUITE ARCHITECT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0952
 - **Status:** scraped
 
 ### Sales Support Representative - Intern
@@ -174,14 +198,6 @@ _Generated: 2026-09-03T10:44:51.009Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0887
-- **Status:** scraped
-
-### Junior Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Junior-Business-Development-Manager_JR0888](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Junior-Business-Development-Manager_JR0888)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0888
 - **Status:** scraped
 
 ### Senior Key Account Manager
