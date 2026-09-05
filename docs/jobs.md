@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-04 |
+| Last Scraped | 2026-09-05 |
 
-## Current Job Listings (26)
+## Current Job Listings (29)
 
-_Generated: 2026-09-04T10:47:35.765Z_
+_Generated: 2026-09-05T10:01:08.184Z_
+
+### Senior Product Designer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0812
+- **Status:** scraped
+
+### Senior EU Accountant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1005
+- **Status:** scraped
+
+### HR Operations Executive - Fixed Term (9 months only))
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0930
+- **Status:** scraped
+
+### Lead Product Manager – Behavioural
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Lead-Product-Manager---Behavioural_JR1004](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Lead-Product-Manager---Behavioural_JR1004)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1004
+- **Status:** scraped
 
 ### Stage de fin d'études - Sales Development Representative (SDR)
 
@@ -158,14 +190,6 @@ _Generated: 2026-09-04T10:47:35.765Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0926
-- **Status:** scraped
-
-### HR Operations Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0930
 - **Status:** scraped
 
 ### Werkstudent:in (m/w/d) - Media & Entertainment
