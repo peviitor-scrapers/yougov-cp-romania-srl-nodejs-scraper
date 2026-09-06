@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-05 |
+| Last Scraped | 2026-09-06 |
 
 ## Current Job Listings (29)
 
-_Generated: 2026-09-05T10:01:08.184Z_
+_Generated: 2026-09-06T10:20:47.217Z_
 
 ### Senior Product Designer
 
