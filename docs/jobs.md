@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-06 |
+| Last Scraped | 2026-09-07 |
 
 ## Current Job Listings (29)
 
-_Generated: 2026-09-06T10:20:47.217Z_
+_Generated: 2026-09-07T11:41:57.384Z_
+
+### Senior Product Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0985
+- **Status:** scraped
 
 ### Senior Product Designer
 
@@ -190,14 +198,6 @@ _Generated: 2026-09-06T10:20:47.217Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0926
-- **Status:** scraped
-
-### Werkstudent:in (m/w/d) - Media & Entertainment
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d----Media---Entertainment_JR0934](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d----Media---Entertainment_JR0934)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0934
 - **Status:** scraped
 
 ### Research Manager
