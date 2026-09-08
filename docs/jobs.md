@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-07 |
+| Last Scraped | 2026-09-08 |
 
-## Current Job Listings (29)
+## Current Job Listings (28)
 
-_Generated: 2026-09-07T11:41:57.384Z_
+_Generated: 2026-09-08T10:41:01.850Z_
 
 ### Senior Product Manager
 
@@ -94,14 +94,6 @@ _Generated: 2026-09-07T11:41:57.384Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0978
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR0896-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0896
 - **Status:** scraped
 
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
