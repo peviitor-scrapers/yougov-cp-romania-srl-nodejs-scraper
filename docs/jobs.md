@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-08 |
+| Last Scraped | 2026-09-09 |
 
-## Current Job Listings (28)
+## Current Job Listings (29)
 
-_Generated: 2026-09-08T10:41:01.850Z_
+_Generated: 2026-09-09T10:49:49.291Z_
+
+### Junior Research Consultant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0739
+- **Status:** scraped
+
+### NETSUITE ARCHITECT
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0952
+- **Status:** scraped
+
+### Associate Analytics Manager (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Associate-Analytics-Manager--m-w-d-_JR1006-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Associate-Analytics-Manager--m-w-d-_JR1006-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1006
+- **Status:** scraped
 
 ### Senior Product Manager
 
@@ -22,14 +46,6 @@ _Generated: 2026-09-08T10:41:01.850Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0985
-- **Status:** scraped
-
-### Senior Product Designer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0812
 - **Status:** scraped
 
 ### Senior EU Accountant
@@ -78,14 +94,6 @@ _Generated: 2026-09-08T10:41:01.850Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1001
-- **Status:** scraped
-
-### NETSUITE ARCHITECT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0952
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
