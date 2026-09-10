@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-09 |
+| Last Scraped | 2026-09-10 |
 
-## Current Job Listings (29)
+## Current Job Listings (30)
 
-_Generated: 2026-09-09T10:49:49.291Z_
+_Generated: 2026-09-10T10:43:15.196Z_
+
+### Market Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1014](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1014)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1014
+- **Status:** scraped
 
 ### Junior Research Consultant
 
