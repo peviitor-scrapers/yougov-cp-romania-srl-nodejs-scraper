@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-10 |
+| Last Scraped | 2026-09-11 |
 
-## Current Job Listings (30)
+## Current Job Listings (31)
 
-_Generated: 2026-09-10T10:43:15.196Z_
+_Generated: 2026-09-11T10:41:40.132Z_
+
+### (Junior) Research Consultant, Financial Services & Media
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0929
+- **Status:** scraped
+
+### Account Manager - Consumer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0968
+- **Status:** scraped
+
+### Junior Consultant - Retail & Lifestyle (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0742
+- **Status:** scraped
+
+### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0335
+- **Status:** scraped
 
 ### Market Analyst
 
@@ -120,22 +152,6 @@ _Generated: 2026-09-10T10:43:15.196Z_
 - **Tags:** JR0877
 - **Status:** scraped
 
-### Associate Director - Business Development
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Associate-Director---Business-Development_JR0991](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Associate-Director---Business-Development_JR0991)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0991
-- **Status:** scraped
-
-### Account Manager - Consumer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0968
-- **Status:** scraped
-
 ### Sales Support Representative - Intern
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981)
@@ -206,14 +222,6 @@ _Generated: 2026-09-10T10:43:15.196Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0926
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Manager_JR0904-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Manager_JR0904-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0904
 - **Status:** scraped
 
 ### Senior Tax Manager
