@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-11 |
+| Last Scraped | 2026-09-12 |
 
-## Current Job Listings (31)
+## Current Job Listings (32)
 
-_Generated: 2026-09-11T10:41:40.132Z_
+_Generated: 2026-09-12T10:10:40.467Z_
+
+### Account Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Leuven-Belgium/Account-Manager_JR1018](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Leuven-Belgium/Account-Manager_JR1018)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1018
+- **Status:** scraped
+
+### Junior Research Consultant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1022
+- **Status:** scraped
 
 ### (Junior) Research Consultant, Financial Services & Media
 
@@ -158,14 +174,6 @@ _Generated: 2026-09-11T10:41:40.132Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0981
-- **Status:** scraped
-
-### Consultant Multinational Retailer (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0979
 - **Status:** scraped
 
 ### Record to Report Accountant
