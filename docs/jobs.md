@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-14 |
+| Last Scraped | 2026-09-15 |
 
-## Current Job Listings (33)
+## Current Job Listings (35)
 
-_Generated: 2026-09-14T11:55:57.361Z_
+_Generated: 2026-09-15T11:11:19.998Z_
+
+### Consultant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Praha-Czechia/Consultant_JR1031-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Praha-Czechia/Consultant_JR1031-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1031
+- **Status:** scraped
+
+### Data Management Specialist
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1027
+- **Status:** scraped
+
+### NetSuite Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1023
+- **Status:** scraped
 
 ### Consultant Multinational Retailer (m/w/d)
 
@@ -118,14 +142,6 @@ _Generated: 2026-09-14T11:55:57.361Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1005
-- **Status:** scraped
-
-### HR Operations Executive - Fixed Term (9 months only))
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/HR-Operations-Executive_JR0930)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0930
 - **Status:** scraped
 
 ### Lead Product Manager – Behavioural
