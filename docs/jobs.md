@@ -10,11 +10,59 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-15 |
+| Last Scraped | 2026-09-17 |
 
-## Current Job Listings (35)
+## Current Job Listings (37)
 
-_Generated: 2026-09-15T11:11:19.998Z_
+_Generated: 2026-09-17T11:03:37.033Z_
+
+### Data Management Specialist
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Data-Management-Specialist_JR1038](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Data-Management-Specialist_JR1038)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1038
+- **Status:** scraped
+
+### Product Manager (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Product-Manager--m-w-d-_JR1034](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Product-Manager--m-w-d-_JR1034)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1034
+- **Status:** scraped
+
+### Data Management Specialist (Finnish Speaker)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1027
+- **Status:** scraped
+
+### Junior Consultant - Retail & Lifestyle (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0742
+- **Status:** scraped
+
+### (Junior) Consultant - AST National (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1025
+- **Status:** scraped
+
+### Market Research Project Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Market-Research-Project-Manager_JR1030](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Market-Research-Project-Manager_JR1030)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1030
+- **Status:** scraped
 
 ### Consultant
 
@@ -22,14 +70,6 @@ _Generated: 2026-09-15T11:11:19.998Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1031
-- **Status:** scraped
-
-### Data Management Specialist
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1027
 - **Status:** scraped
 
 ### NetSuite Analyst
@@ -78,14 +118,6 @@ _Generated: 2026-09-15T11:11:19.998Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0968
-- **Status:** scraped
-
-### Junior Consultant - Retail & Lifestyle (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0742
 - **Status:** scraped
 
 ### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
@@ -158,14 +190,6 @@ _Generated: 2026-09-15T11:11:19.998Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0984
-- **Status:** scraped
-
-### Technical Quality Assurance Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0971
 - **Status:** scraped
 
 ### Lead Product Manager – Data Products
@@ -254,14 +278,6 @@ _Generated: 2026-09-15T11:11:19.998Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0926
-- **Status:** scraped
-
-### Senior Tax Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Tax-Accountant_JR0704-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Tax-Accountant_JR0704-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0704
 - **Status:** scraped
 
 ### Junior Business Development Manager
