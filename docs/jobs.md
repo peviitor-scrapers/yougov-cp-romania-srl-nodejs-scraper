@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-17 |
+| Last Scraped | 2026-09-18 |
 
-## Current Job Listings (37)
+## Current Job Listings (34)
 
-_Generated: 2026-09-17T11:03:37.033Z_
+_Generated: 2026-09-18T10:39:19.635Z_
 
 ### Data Management Specialist
 
@@ -128,14 +128,6 @@ _Generated: 2026-09-17T11:03:37.033Z_
 - **Tags:** JR0335
 - **Status:** scraped
 
-### Market Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1014](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1014)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1014
-- **Status:** scraped
-
 ### Junior Research Consultant
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739)
@@ -176,28 +168,12 @@ _Generated: 2026-09-17T11:03:37.033Z_
 - **Tags:** JR1005
 - **Status:** scraped
 
-### Lead Product Manager – Behavioural
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Lead-Product-Manager---Behavioural_JR1004](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Lead-Product-Manager---Behavioural_JR1004)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1004
-- **Status:** scraped
-
 ### Stage de fin d'études - Sales Development Representative (SDR)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0984
-- **Status:** scraped
-
-### Lead Product Manager – Data Products
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Lead-Product-Manager---Data-Products_JR1001](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Lead-Product-Manager---Data-Products_JR1001)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1001
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
