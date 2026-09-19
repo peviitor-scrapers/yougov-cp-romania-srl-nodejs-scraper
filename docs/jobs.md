@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-18 |
+| Last Scraped | 2026-09-19 |
 
-## Current Job Listings (34)
+## Current Job Listings (35)
 
-_Generated: 2026-09-18T10:39:19.635Z_
+_Generated: 2026-09-19T10:23:36.860Z_
+
+### People Partner
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1044
+- **Status:** scraped
+
+### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant--Retail---Lifestyle--2-year-Fixed-Term-Contract---m-w-d-_JR1039-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant--Retail---Lifestyle--2-year-Fixed-Term-Contract---m-w-d-_JR1039-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1039
+- **Status:** scraped
 
 ### Data Management Specialist
 
@@ -102,14 +118,6 @@ _Generated: 2026-09-18T10:39:19.635Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1022
-- **Status:** scraped
-
-### (Junior) Research Consultant, Financial Services & Media
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant--Financial-Services---Media_JR0929)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0929
 - **Status:** scraped
 
 ### Account Manager - Consumer
