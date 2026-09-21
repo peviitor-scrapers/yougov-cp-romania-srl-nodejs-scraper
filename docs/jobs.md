@@ -10,18 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-20 |
+| Last Scraped | 2026-09-21 |
 
-## Current Job Listings (35)
+## Current Job Listings (32)
 
-_Generated: 2026-09-20T10:43:29.714Z_
+_Generated: 2026-09-21T12:06:54.471Z_
 
-### People Partner
+### Business Development Manager
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR1044
+- **Tags:** JR0897
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
@@ -54,14 +54,6 @@ _Generated: 2026-09-20T10:43:29.714Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1027
-- **Status:** scraped
-
-### Junior Consultant - Retail & Lifestyle (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0742
 - **Status:** scraped
 
 ### (Junior) Consultant - AST National (m/w/d)
@@ -152,14 +144,6 @@ _Generated: 2026-09-20T10:43:29.714Z_
 - **Tags:** JR0952
 - **Status:** scraped
 
-### Associate Analytics Manager (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Associate-Analytics-Manager--m-w-d-_JR1006-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Associate-Analytics-Manager--m-w-d-_JR1006-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1006
-- **Status:** scraped
-
 ### Senior Product Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985)
@@ -222,14 +206,6 @@ _Generated: 2026-09-20T10:43:29.714Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0972
-- **Status:** scraped
-
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0897
 - **Status:** scraped
 
 ### Senior Research Executive - Financial Services (m/w/d)
