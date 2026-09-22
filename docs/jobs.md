@@ -10,18 +10,26 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-21 |
+| Last Scraped | 2026-09-22 |
 
-## Current Job Listings (32)
+## Current Job Listings (34)
 
-_Generated: 2026-09-21T12:06:54.471Z_
+_Generated: 2026-09-22T11:02:28.857Z_
 
-### Business Development Manager
+### Junior Consultant (m/w/d)
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0897
+- **Tags:** JR0726
+- **Status:** scraped
+
+### Data Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Data-Analyst_JR1035](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Data-Analyst_JR1035)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1035
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
@@ -30,6 +38,22 @@ _Generated: 2026-09-21T12:06:54.471Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1039
+- **Status:** scraped
+
+### (Junior) Consultant - AST National (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1025
+- **Status:** scraped
+
+### Business Development Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0897
 - **Status:** scraped
 
 ### Data Management Specialist
@@ -54,14 +78,6 @@ _Generated: 2026-09-21T12:06:54.471Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1027
-- **Status:** scraped
-
-### (Junior) Consultant - AST National (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1025
 - **Status:** scraped
 
 ### Market Research Project Manager
