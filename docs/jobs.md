@@ -10,11 +10,59 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-22 |
+| Last Scraped | 2026-09-23 |
 
-## Current Job Listings (34)
+## Current Job Listings (36)
 
-_Generated: 2026-09-22T11:02:28.857Z_
+_Generated: 2026-09-23T10:51:29.976Z_
+
+### Record to Report Accountant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0980
+- **Status:** scraped
+
+### Research Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Director_JR1003-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Director_JR1003-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1003
+- **Status:** scraped
+
+### Panel Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Panel-Manager_JR1047-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Panel-Manager_JR1047-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1047
+- **Status:** scraped
+
+### Research Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1045
+- **Status:** scraped
+
+### Research Executive (m/w/d) im Team „Political Research“
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1052
+- **Status:** scraped
+
+### Technical Quality Assurance Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0971
+- **Status:** scraped
 
 ### Junior Consultant (m/w/d)
 
@@ -40,14 +88,6 @@ _Generated: 2026-09-22T11:02:28.857Z_
 - **Tags:** JR1039
 - **Status:** scraped
 
-### (Junior) Consultant - AST National (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Junior--Consultant---AST-National--m-w-d-_JR1025)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1025
-- **Status:** scraped
-
 ### Business Development Manager
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
@@ -62,14 +102,6 @@ _Generated: 2026-09-22T11:02:28.857Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1038
-- **Status:** scraped
-
-### Product Manager (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Product-Manager--m-w-d-_JR1034](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Product-Manager--m-w-d-_JR1034)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1034
 - **Status:** scraped
 
 ### Data Management Specialist (Finnish Speaker)
@@ -126,14 +158,6 @@ _Generated: 2026-09-22T11:02:28.857Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1022
-- **Status:** scraped
-
-### Account Manager - Consumer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Account-Manager---Consumer_JR0968-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0968
 - **Status:** scraped
 
 ### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
@@ -206,14 +230,6 @@ _Generated: 2026-09-22T11:02:28.857Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0981
-- **Status:** scraped
-
-### Record to Report Accountant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0980
 - **Status:** scraped
 
 ### Finance-Specialist 80-100% (m/w/d) – befristet auf 1 Jahr
