@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-23 |
+| Last Scraped | 2026-09-24 |
 
 ## Current Job Listings (36)
 
-_Generated: 2026-09-23T10:51:29.976Z_
+_Generated: 2026-09-24T11:11:25.652Z_
+
+### Research Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1045
+- **Status:** scraped
+
+### New Business Senior Sales
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1053
+- **Status:** scraped
 
 ### Record to Report Accountant
 
@@ -40,14 +56,6 @@ _Generated: 2026-09-23T10:51:29.976Z_
 - **Tags:** JR1047
 - **Status:** scraped
 
-### Research Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1045
-- **Status:** scraped
-
 ### Research Executive (m/w/d) im Team „Political Research“
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052)
@@ -70,14 +78,6 @@ _Generated: 2026-09-23T10:51:29.976Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0726
-- **Status:** scraped
-
-### Data Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Data-Analyst_JR1035](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Data-Analyst_JR1035)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1035
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
