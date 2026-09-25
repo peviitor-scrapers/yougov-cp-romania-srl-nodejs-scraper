@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-24 |
+| Last Scraped | 2026-09-25 |
 
-## Current Job Listings (36)
+## Current Job Listings (38)
 
-_Generated: 2026-09-24T11:11:25.652Z_
+_Generated: 2026-09-25T11:15:57.140Z_
+
+### MuleSoft Developer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/MuleSoft-Developer_JR0684](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/MuleSoft-Developer_JR0684)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0684
+- **Status:** scraped
+
+### Werkstudent (m/w/d) - Client Commercial Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1059
+- **Status:** scraped
 
 ### Research Executive
 
