@@ -7,14 +7,22 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-25 |
+| Last Scraped | 2026-09-26 |
 
-## Current Job Listings (38)
+## Current Job Listings (37)
 
-_Generated: 2026-09-25T11:15:57.140Z_
+_Generated: 2026-09-26T10:53:19.204Z_
+
+### (Senior) Research Executive (w/m/d) – Quantitative Marktforschung | Financial Services
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0937
+- **Status:** scraped
 
 ### MuleSoft Developer
 
@@ -246,22 +254,6 @@ _Generated: 2026-09-25T11:15:57.140Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0981
-- **Status:** scraped
-
-### Finance-Specialist 80-100% (m/w/d) – befristet auf 1 Jahr
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Finance-Specialist-80-100---m-w-d----befristet-auf-1-Jahr_JR0972)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0972
-- **Status:** scraped
-
-### Senior Research Executive - Financial Services (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0937
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
