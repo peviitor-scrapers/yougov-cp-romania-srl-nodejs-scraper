@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-27 |
+| Last Scraped | 2026-09-28 |
 
-## Current Job Listings (37)
+## Current Job Listings (39)
 
-_Generated: 2026-09-27T11:29:37.112Z_
+_Generated: 2026-09-28T13:01:59.949Z_
+
+### NetSuite Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1023
+- **Status:** scraped
+
+### Junior Consultant - Retail & Lifestyle (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0742
+- **Status:** scraped
+
+### (Senior) Consultant, Business Development (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1058
+- **Status:** scraped
 
 ### (Senior) Research Executive (w/m/d) – Quantitative Marktforschung | Financial Services
 
@@ -150,14 +174,6 @@ _Generated: 2026-09-27T11:29:37.112Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1031
-- **Status:** scraped
-
-### NetSuite Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1023
 - **Status:** scraped
 
 ### Consultant Multinational Retailer (m/w/d)
