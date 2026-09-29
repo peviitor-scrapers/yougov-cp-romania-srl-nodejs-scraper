@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-28 |
+| Last Scraped | 2026-09-29 |
 
-## Current Job Listings (39)
+## Current Job Listings (40)
 
-_Generated: 2026-09-28T13:01:59.949Z_
+_Generated: 2026-09-29T12:13:15.413Z_
+
+### Junior Sales / Junior Business Development
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Junior-Sales---Junior-Business-Development_JR1066](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Junior-Sales---Junior-Business-Development_JR1066)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1066
+- **Status:** scraped
 
 ### NetSuite Analyst
 
