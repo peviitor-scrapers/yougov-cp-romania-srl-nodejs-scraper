@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-29 |
+| Last Scraped | 2026-09-30 |
 
-## Current Job Listings (40)
+## Current Job Listings (41)
 
-_Generated: 2026-09-29T12:13:15.413Z_
+_Generated: 2026-09-30T12:01:38.493Z_
+
+### Research Executive - Public Sector & Charities
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1067](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1067)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1067
+- **Status:** scraped
+
+### Stage de fin d'études - Sales Development Representative (SDR)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0984
+- **Status:** scraped
+
+### Senior Sales Business Development
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1064
+- **Status:** scraped
 
 ### Junior Sales / Junior Business Development
 
@@ -54,14 +78,6 @@ _Generated: 2026-09-29T12:13:15.413Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0937
-- **Status:** scraped
-
-### MuleSoft Developer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/MuleSoft-Developer_JR0684](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/MuleSoft-Developer_JR0684)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0684
 - **Status:** scraped
 
 ### Werkstudent (m/w/d) - Client Commercial Team
@@ -246,14 +262,6 @@ _Generated: 2026-09-29T12:13:15.413Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1005
-- **Status:** scraped
-
-### Stage de fin d'études - Sales Development Representative (SDR)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0984
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
