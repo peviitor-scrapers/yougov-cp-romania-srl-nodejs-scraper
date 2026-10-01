@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
 ## Current Job Listings (41)
 
-_Generated: 2026-09-30T12:01:38.493Z_
+_Generated: 2026-10-01T12:32:03.825Z_
 
 ### Research Executive - Public Sector & Charities
 
@@ -22,6 +22,22 @@ _Generated: 2026-09-30T12:01:38.493Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1067
+- **Status:** scraped
+
+### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0335
+- **Status:** scraped
+
+### Client Engagement Manager - US
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1060
 - **Status:** scraped
 
 ### Stage de fin d'études - Sales Development Representative (SDR)
@@ -224,28 +240,12 @@ _Generated: 2026-09-30T12:01:38.493Z_
 - **Tags:** JR1022
 - **Status:** scraped
 
-### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0335
-- **Status:** scraped
-
 ### Junior Research Consultant
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0739
-- **Status:** scraped
-
-### NETSUITE ARCHITECT
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NETSUITE-ARCHITECT_JR0952-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0952
 - **Status:** scraped
 
 ### Senior Product Manager
