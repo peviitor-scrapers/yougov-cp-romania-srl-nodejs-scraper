@@ -10,11 +10,59 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-01 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (41)
+## Current Job Listings (45)
 
-_Generated: 2026-10-01T12:32:03.825Z_
+_Generated: 2026-10-02T11:57:41.866Z_
+
+### Junior Consultant (m/w/d) im Bereich FMCG
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0726
+- **Status:** scraped
+
+### Accounts Payable Analyst (Treasury Operations)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1075
+- **Status:** scraped
+
+### (Senior) Consultant, Business Development (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1058
+- **Status:** scraped
+
+### Research Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR1074](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR1074)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1074
+- **Status:** scraped
+
+### Head of YouGov Sports UK
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1055
+- **Status:** scraped
+
+### Research Executive, Client Service
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1024
+- **Status:** scraped
 
 ### Research Executive - Public Sector & Charities
 
@@ -78,14 +126,6 @@ _Generated: 2026-10-01T12:32:03.825Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0742
-- **Status:** scraped
-
-### (Senior) Consultant, Business Development (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1058
 - **Status:** scraped
 
 ### (Senior) Research Executive (w/m/d) – Quantitative Marktforschung | Financial Services
@@ -158,14 +198,6 @@ _Generated: 2026-10-01T12:32:03.825Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0971
-- **Status:** scraped
-
-### Junior Consultant (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0726
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
