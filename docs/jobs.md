@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-10-03 |
 
-## Current Job Listings (45)
+## Current Job Listings (46)
 
-_Generated: 2026-10-02T11:57:41.866Z_
+_Generated: 2026-10-03T11:10:59.767Z_
+
+### Head of YouGov Sport UK
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1055
+- **Status:** scraped
+
+### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1069
+- **Status:** scraped
 
 ### Junior Consultant (m/w/d) im Bereich FMCG
 
@@ -46,14 +62,6 @@ _Generated: 2026-10-02T11:57:41.866Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1074
-- **Status:** scraped
-
-### Head of YouGov Sports UK
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1055
 - **Status:** scraped
 
 ### Research Executive, Client Service
