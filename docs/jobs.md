@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
-## Current Job Listings (46)
+## Current Job Listings (48)
 
-_Generated: 2026-10-04T11:50:44.571Z_
+_Generated: 2026-10-05T13:44:12.178Z_
+
+### Research Executive, Client Service
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1037
+- **Status:** scraped
+
+### Research Executive, Client Service
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1024
+- **Status:** scraped
+
+### Data Production Expert
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Data-Production-Expert_JR1063](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Data-Production-Expert_JR1063)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1063
+- **Status:** scraped
 
 ### Head of YouGov Sport UK
 
@@ -62,14 +86,6 @@ _Generated: 2026-10-04T11:50:44.571Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1074
-- **Status:** scraped
-
-### Research Executive, Client Service
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive--Client-Service_JR1024)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1024
 - **Status:** scraped
 
 ### Research Executive - Public Sector & Charities
