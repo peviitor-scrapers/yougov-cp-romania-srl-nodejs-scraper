@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-05 |
+| Last Scraped | 2026-10-06 |
 
-## Current Job Listings (48)
+## Current Job Listings (49)
 
-_Generated: 2026-10-05T13:44:12.178Z_
+_Generated: 2026-10-06T12:50:09.095Z_
+
+### Project Manager Enterprise Systems IT Portfolio
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Project-Manager-Enterprise-Systems-IT-Portfolio_JR1056](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Project-Manager-Enterprise-Systems-IT-Portfolio_JR1056)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1056
+- **Status:** scraped
+
+### Payroll Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1081
+- **Status:** scraped
+
+### Account Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1078
+- **Status:** scraped
 
 ### Research Executive, Client Service
 
@@ -134,14 +158,6 @@ _Generated: 2026-10-05T13:44:12.178Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1066
-- **Status:** scraped
-
-### NetSuite Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/NetSuite-Analyst_JR1023-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1023
 - **Status:** scraped
 
 ### Junior Consultant - Retail & Lifestyle (m/w/d)
@@ -334,14 +350,6 @@ _Generated: 2026-10-05T13:44:12.178Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0877
-- **Status:** scraped
-
-### Sales Support Representative - Intern
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Sales-Support-Representative---Intern_JR0981)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0981
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
