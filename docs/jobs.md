@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
-## Current Job Listings (49)
+## Current Job Listings (50)
 
-_Generated: 2026-10-06T12:50:09.095Z_
+_Generated: 2026-10-07T12:44:08.381Z_
+
+### Business Development Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager_JR1036](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager_JR1036)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1036
+- **Status:** scraped
+
+### Junior Research Consultant - Real Estate & Industries
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0913
+- **Status:** scraped
 
 ### Project Manager Enterprise Systems IT Portfolio
 
@@ -174,14 +190,6 @@ _Generated: 2026-10-06T12:50:09.095Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0937
-- **Status:** scraped
-
-### Werkstudent (m/w/d) - Client Commercial Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1059
 - **Status:** scraped
 
 ### Research Executive
