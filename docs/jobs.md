@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-07 |
+| Last Scraped | 2026-10-08 |
 
-## Current Job Listings (50)
+## Current Job Listings (53)
 
-_Generated: 2026-10-07T12:44:08.381Z_
+_Generated: 2026-10-08T12:53:37.597Z_
+
+### Werkstudent in HR (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1092
+- **Status:** scraped
+
+### People Partner
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1044
+- **Status:** scraped
+
+### Senior EU Accountant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1005
+- **Status:** scraped
+
+### Client Services Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Services-Analyst_JR1080](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Services-Analyst_JR1080)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1080
+- **Status:** scraped
 
 ### Business Development Manager
 
@@ -334,14 +366,6 @@ _Generated: 2026-10-07T12:44:08.381Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0985
-- **Status:** scraped
-
-### Senior EU Accountant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1005
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
