@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (53)
+## Current Job Listings (55)
 
-_Generated: 2026-10-11T12:11:18.960Z_
+_Generated: 2026-10-12T14:33:11.227Z_
+
+### Junior Consultant – Retail
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1090
+- **Status:** scraped
+
+### Senior Data Engineer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1094
+- **Status:** scraped
+
+### Senior Data Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1093
+- **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
@@ -166,14 +190,6 @@ _Generated: 2026-10-11T12:11:18.960Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1067
-- **Status:** scraped
-
-### Junior Full-Stack Software Engineer (m/w/d) - German Speaker
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Full-Stack-Software-Engineer--m-w-d-_JR0335)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0335
 - **Status:** scraped
 
 ### Client Engagement Manager - US
