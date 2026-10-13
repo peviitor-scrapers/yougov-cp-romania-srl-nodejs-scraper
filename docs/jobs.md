@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-12 |
+| Last Scraped | 2026-10-13 |
 
-## Current Job Listings (55)
+## Current Job Listings (59)
 
-_Generated: 2026-10-12T14:33:11.227Z_
+_Generated: 2026-10-13T13:39:16.828Z_
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1083
+- **Status:** scraped
+
+### Research Director, YouGov Sport
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1087
+- **Status:** scraped
+
+### Sales Development Representative (SDR)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Sales-Development-Representative--SDR-_JR1082](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Sales-Development-Representative--SDR-_JR1082)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1082
+- **Status:** scraped
+
+### Director - Qualitative
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Director---Qualitative_JR1098](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Director---Qualitative_JR1098)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1098
+- **Status:** scraped
 
 ### Junior Consultant – Retail
 
