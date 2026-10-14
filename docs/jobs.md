@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-13 |
+| Last Scraped | 2026-10-14 |
 
-## Current Job Listings (59)
+## Current Job Listings (57)
 
-_Generated: 2026-10-13T13:39:16.828Z_
+_Generated: 2026-10-14T11:17:55.618Z_
+
+### People Partner- APAC
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1044
+- **Status:** scraped
 
 ### Research Manager
 
@@ -80,28 +88,12 @@ _Generated: 2026-10-13T13:39:16.828Z_
 - **Tags:** JR1059
 - **Status:** scraped
 
-### Senior Product Designer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Designer_JR0812)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0812
-- **Status:** scraped
-
 ### Werkstudent in HR (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1092
-- **Status:** scraped
-
-### People Partner
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/People-Partner_JR1044-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1044
 - **Status:** scraped
 
 ### Senior EU Accountant
@@ -358,14 +350,6 @@ _Generated: 2026-10-13T13:39:16.828Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1027
-- **Status:** scraped
-
-### Market Research Project Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Market-Research-Project-Manager_JR1030](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Market-Research-Project-Manager_JR1030)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1030
 - **Status:** scraped
 
 ### Consultant
