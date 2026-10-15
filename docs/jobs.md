@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-14 |
+| Last Scraped | 2026-10-15 |
 
 ## Current Job Listings (57)
 
-_Generated: 2026-10-14T11:17:55.618Z_
+_Generated: 2026-10-15T10:55:52.907Z_
+
+### Marketing Automation Specialist
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Automation-Specialist_JR1104](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Automation-Specialist_JR1104)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1104
+- **Status:** scraped
+
+### Senior Research Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Senior-Research-Director_JR1089](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Senior-Research-Director_JR1089)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1089
+- **Status:** scraped
 
 ### People Partner- APAC
 
@@ -70,14 +86,6 @@ _Generated: 2026-10-14T11:17:55.618Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1094
-- **Status:** scraped
-
-### Senior Data Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1093
 - **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
@@ -206,14 +214,6 @@ _Generated: 2026-10-14T11:17:55.618Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1074
-- **Status:** scraped
-
-### Research Executive - Public Sector & Charities
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1067](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1067)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1067
 - **Status:** scraped
 
 ### Client Engagement Manager - US
