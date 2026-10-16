@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
-## Current Job Listings (57)
+## Current Job Listings (52)
 
-_Generated: 2026-10-15T10:55:52.907Z_
+_Generated: 2026-10-16T10:48:11.922Z_
+
+### Senior EU Accountant
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1005
+- **Status:** scraped
 
 ### Marketing Automation Specialist
 
@@ -104,44 +112,12 @@ _Generated: 2026-10-15T10:55:52.907Z_
 - **Tags:** JR1092
 - **Status:** scraped
 
-### Senior EU Accountant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Senior-EU-Accountant_JR1005)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1005
-- **Status:** scraped
-
-### Client Services Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Services-Analyst_JR1080](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Services-Analyst_JR1080)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1080
-- **Status:** scraped
-
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager_JR1036](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager_JR1036)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1036
-- **Status:** scraped
-
 ### Junior Research Consultant - Real Estate & Industries
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0913
-- **Status:** scraped
-
-### Project Manager Enterprise Systems IT Portfolio
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Project-Manager-Enterprise-Systems-IT-Portfolio_JR1056](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Project-Manager-Enterprise-Systems-IT-Portfolio_JR1056)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1056
 - **Status:** scraped
 
 ### Payroll Analyst
@@ -312,14 +288,6 @@ _Generated: 2026-10-15T10:55:52.907Z_
 - **Tags:** JR1052
 - **Status:** scraped
 
-### Technical Quality Assurance Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Technical-Quality-Assurance-Analyst_JR0971-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0971
-- **Status:** scraped
-
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant--Retail---Lifestyle--2-year-Fixed-Term-Contract---m-w-d-_JR1039-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant--Retail---Lifestyle--2-year-Fixed-Term-Contract---m-w-d-_JR1039-1)
@@ -334,14 +302,6 @@ _Generated: 2026-10-15T10:55:52.907Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Data Management Specialist
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Data-Management-Specialist_JR1038](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Sofia-Bulgaria/Data-Management-Specialist_JR1038)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1038
 - **Status:** scraped
 
 ### Data Management Specialist (Finnish Speaker)
