@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (52)
+## Current Job Listings (54)
 
-_Generated: 2026-10-16T10:48:11.922Z_
+_Generated: 2026-10-17T10:12:57.233Z_
+
+### Deputy Company Secretary
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Deputy-Company-Secretary_JR1106](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Deputy-Company-Secretary_JR1106)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1106
+- **Status:** scraped
+
+### Senior Legal Counsel, Corporate
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Legal-Counsel--Corporate_JR1097-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Legal-Counsel--Corporate_JR1097-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1097
+- **Status:** scraped
 
 ### Senior EU Accountant
 
