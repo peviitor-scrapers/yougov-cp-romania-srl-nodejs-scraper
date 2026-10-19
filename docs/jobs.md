@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (54)
+## Current Job Listings (53)
 
-_Generated: 2026-10-18T10:28:39.333Z_
+_Generated: 2026-10-19T12:16:18.078Z_
 
 ### Deputy Company Secretary
 
@@ -70,14 +70,6 @@ _Generated: 2026-10-18T10:28:39.333Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1083
-- **Status:** scraped
-
-### Research Director, YouGov Sport
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1087
 - **Status:** scraped
 
 ### Sales Development Representative (SDR)
