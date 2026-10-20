@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-19 |
+| Last Scraped | 2026-10-20 |
 
-## Current Job Listings (53)
+## Current Job Listings (50)
 
-_Generated: 2026-10-19T12:16:18.078Z_
+_Generated: 2026-10-20T10:59:04.441Z_
+
+### Junior Consultant - Retail & Lifestyle (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0742
+- **Status:** scraped
 
 ### Deputy Company Secretary
 
@@ -192,14 +200,6 @@ _Generated: 2026-10-19T12:16:18.078Z_
 - **Tags:** JR1058
 - **Status:** scraped
 
-### Research Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR1074](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Research-Director_JR1074)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1074
-- **Status:** scraped
-
 ### Client Engagement Manager - US
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060)
@@ -230,14 +230,6 @@ _Generated: 2026-10-19T12:16:18.078Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1066
-- **Status:** scraped
-
-### Junior Consultant - Retail & Lifestyle (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0742
 - **Status:** scraped
 
 ### (Senior) Research Executive (w/m/d) – Quantitative Marktforschung | Financial Services
@@ -360,14 +352,6 @@ _Generated: 2026-10-19T12:16:18.078Z_
 - **Tags:** JR0739
 - **Status:** scraped
 
-### Senior Product Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Product-Manager_JR0985)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0985
-- **Status:** scraped
-
 ### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
@@ -390,14 +374,6 @@ _Generated: 2026-10-19T12:16:18.078Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0925
-- **Status:** scraped
-
-### Werkstudent\*in FMCG & Other Sectors (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-FMCG---Other-Sectors--m-w-d-_JR0954](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-FMCG---Other-Sectors--m-w-d-_JR0954)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0954
 - **Status:** scraped
 
 ### Business Development Manager (m/w/d)
