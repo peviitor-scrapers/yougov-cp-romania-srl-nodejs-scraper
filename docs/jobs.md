@@ -10,18 +10,26 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
-## Current Job Listings (50)
+## Current Job Listings (51)
 
-_Generated: 2026-10-20T10:59:04.441Z_
+_Generated: 2026-10-21T11:15:33.358Z_
 
-### Junior Consultant - Retail & Lifestyle (m/w/d)
+### Analytics Engineer
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0742
+- **Tags:** JR1103
+- **Status:** scraped
+
+### Senior Software Engineer, Python (Remote)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0657
 - **Status:** scraped
 
 ### Deputy Company Secretary
@@ -30,6 +38,14 @@ _Generated: 2026-10-20T10:59:04.441Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1106
+- **Status:** scraped
+
+### Junior Consultant - Retail & Lifestyle (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0742
 - **Status:** scraped
 
 ### Senior Legal Counsel, Corporate
@@ -334,14 +350,6 @@ _Generated: 2026-10-20T10:59:04.441Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1018
-- **Status:** scraped
-
-### Junior Research Consultant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1022
 - **Status:** scraped
 
 ### Junior Research Consultant
