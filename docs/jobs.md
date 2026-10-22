@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (51)
+## Current Job Listings (50)
 
-_Generated: 2026-10-21T11:15:33.358Z_
+_Generated: 2026-10-22T11:13:58.172Z_
+
+### BI Developer with Python
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Tracker-Developer_JR1113](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Tracker-Developer_JR1113)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1113
+- **Status:** scraped
+
+### Junior Python Agentic AI Developer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Python-Agentic-AI-Developer_JR1112](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Python-Agentic-AI-Developer_JR1112)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1112
+- **Status:** scraped
+
+### Technical Support Expert
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1109
+- **Status:** scraped
 
 ### Analytics Engineer
 
@@ -144,14 +168,6 @@ _Generated: 2026-10-21T11:15:33.358Z_
 - **Tags:** JR1092
 - **Status:** scraped
 
-### Junior Research Consultant - Real Estate & Industries
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0913
-- **Status:** scraped
-
 ### Payroll Analyst
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1)
@@ -174,14 +190,6 @@ _Generated: 2026-10-21T11:15:33.358Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1063
-- **Status:** scraped
-
-### Head of YouGov Sport UK
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-YouGov-Sports-UK_JR1055-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1055
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
@@ -360,14 +368,6 @@ _Generated: 2026-10-21T11:15:33.358Z_
 - **Tags:** JR0739
 - **Status:** scraped
 
-### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-YouGov-Shopper-Panel--Globales-Team_JR0978)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0978
-- **Status:** scraped
-
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Studentische-Hilfskraft-im-Team-YouGov-Account-Management---New-Business-Development---m-w-d-_JR0877)
@@ -398,14 +398,6 @@ _Generated: 2026-10-21T11:15:33.358Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0887
-- **Status:** scraped
-
-### Senior Key Account Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Senior-Key-Account-Manager_JR0889](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Senior-Key-Account-Manager_JR0889)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0889
 - **Status:** scraped
 
 ### Trainee in der Sozialforschung (befristet auf 1 Jahr)
