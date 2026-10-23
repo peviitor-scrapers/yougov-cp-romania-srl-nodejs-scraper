@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (50)
 
-_Generated: 2026-10-22T11:13:58.172Z_
+_Generated: 2026-10-23T11:05:36.716Z_
+
+### Senior Data Methodology Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1051
+- **Status:** scraped
+
+### Data Engineer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Data-Engineer_JR1102-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Data-Engineer_JR1102-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1102
+- **Status:** scraped
 
 ### BI Developer with Python
 
@@ -264,14 +280,6 @@ _Generated: 2026-10-22T11:13:58.172Z_
 - **Tags:** JR0937
 - **Status:** scraped
 
-### Research Executive
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1045
-- **Status:** scraped
-
 ### New Business Senior Sales
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053)
@@ -294,14 +302,6 @@ _Generated: 2026-10-22T11:13:58.172Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1003
-- **Status:** scraped
-
-### Panel Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Panel-Manager_JR1047-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Panel-Manager_JR1047-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1047
 - **Status:** scraped
 
 ### Research Executive (m/w/d) im Team „Political Research“
