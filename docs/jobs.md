@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (50)
+## Current Job Listings (52)
 
-_Generated: 2026-10-23T11:05:36.716Z_
+_Generated: 2026-10-24T10:22:20.152Z_
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Research-Manager_JR1114](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Research-Manager_JR1114)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1114
+- **Status:** scraped
+
+### Sales Development Representative
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1096
+- **Status:** scraped
+
+### Account Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1078
+- **Status:** scraped
 
 ### Senior Data Methodology Analyst
 
@@ -190,14 +214,6 @@ _Generated: 2026-10-23T11:05:36.716Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1081
-- **Status:** scraped
-
-### Account Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1078
 - **Status:** scraped
 
 ### Data Production Expert
