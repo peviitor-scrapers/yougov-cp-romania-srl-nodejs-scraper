@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (52)
+## Current Job Listings (53)
 
-_Generated: 2026-10-25T10:52:09.804Z_
+_Generated: 2026-10-26T12:21:22.227Z_
+
+### Research Director, YouGov Sport
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1087
+- **Status:** scraped
 
 ### Research Manager
 
