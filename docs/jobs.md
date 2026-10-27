@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (53)
+## Current Job Listings (52)
 
-_Generated: 2026-10-26T12:21:22.227Z_
+_Generated: 2026-10-27T11:40:11.702Z_
+
+### Research Manager, YouGov Sports
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1083
+- **Status:** scraped
+
+### Data Enablement Product Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Data-Enablement-Product-Manager_JR1100](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Data-Enablement-Product-Manager_JR1100)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1100
+- **Status:** scraped
 
 ### Research Director, YouGov Sport
 
@@ -72,14 +88,6 @@ _Generated: 2026-10-26T12:21:22.227Z_
 - **Tags:** JR1113
 - **Status:** scraped
 
-### Junior Python Agentic AI Developer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Python-Agentic-AI-Developer_JR1112](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Python-Agentic-AI-Developer_JR1112)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1112
-- **Status:** scraped
-
 ### Technical Support Expert
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109)
@@ -94,14 +102,6 @@ _Generated: 2026-10-26T12:21:22.227Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1103
-- **Status:** scraped
-
-### Senior Software Engineer, Python (Remote)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0657
 - **Status:** scraped
 
 ### Deputy Company Secretary
@@ -158,14 +158,6 @@ _Generated: 2026-10-26T12:21:22.227Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1044
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1083
 - **Status:** scraped
 
 ### Sales Development Representative (SDR)
