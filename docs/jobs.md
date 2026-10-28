@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
 ## Current Job Listings (52)
 
-_Generated: 2026-10-27T11:40:11.702Z_
+_Generated: 2026-10-28T12:12:31.246Z_
+
+### Senior Software Engineer, Python (Remote)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0657
+- **Status:** scraped
 
 ### Research Manager, YouGov Sports
 
@@ -358,14 +366,6 @@ _Generated: 2026-10-27T11:40:11.702Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1031
-- **Status:** scraped
-
-### Consultant Multinational Retailer (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Consultant-Multinational-Retailer--m-w-d-_JR0979)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0979
 - **Status:** scraped
 
 ### Account Manager
