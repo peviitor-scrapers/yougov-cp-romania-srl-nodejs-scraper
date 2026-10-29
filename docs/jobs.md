@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
-## Current Job Listings (52)
+## Current Job Listings (50)
 
-_Generated: 2026-10-28T12:12:31.246Z_
+_Generated: 2026-10-29T12:22:10.207Z_
+
+### Junior Consultant – Retail
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1090
+- **Status:** scraped
+
+### Business Development Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0897
+- **Status:** scraped
 
 ### Senior Software Engineer, Python (Remote)
 
@@ -30,14 +46,6 @@ _Generated: 2026-10-28T12:12:31.246Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1083
-- **Status:** scraped
-
-### Data Enablement Product Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Data-Enablement-Product-Manager_JR1100](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Portland-United-States-of-America/Data-Enablement-Product-Manager_JR1100)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1100
 - **Status:** scraped
 
 ### Research Director, YouGov Sport
@@ -70,14 +78,6 @@ _Generated: 2026-10-28T12:12:31.246Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1078
-- **Status:** scraped
-
-### Senior Data Methodology Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1051
 - **Status:** scraped
 
 ### Data Engineer
@@ -182,14 +182,6 @@ _Generated: 2026-10-28T12:12:31.246Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1098
-- **Status:** scraped
-
-### Junior Consultant – Retail
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1090
 - **Status:** scraped
 
 ### Senior Data Engineer
@@ -342,14 +334,6 @@ _Generated: 2026-10-28T12:12:31.246Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1039
-- **Status:** scraped
-
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0897
 - **Status:** scraped
 
 ### Data Management Specialist (Finnish Speaker)
