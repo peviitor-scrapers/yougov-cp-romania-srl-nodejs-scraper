@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (50)
+## Current Job Listings (51)
 
-_Generated: 2026-10-29T12:22:10.207Z_
+_Generated: 2026-10-30T12:13:27.278Z_
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Research-Manager_JR0947](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Research-Manager_JR0947)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0947
+- **Status:** scraped
+
+### Sales Representative (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR1119](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR1119)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1119
+- **Status:** scraped
+
+### Market Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1115
+- **Status:** scraped
+
+### Senior Technical Product Manager, Data Integrations
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Technical-Product-Manager--Data-Integrations_JR1107](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Technical-Product-Manager--Data-Integrations_JR1107)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1107
+- **Status:** scraped
 
 ### Junior Consultant – Retail
 
@@ -216,14 +248,6 @@ _Generated: 2026-10-29T12:22:10.207Z_
 - **Tags:** JR1081
 - **Status:** scraped
 
-### Data Production Expert
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Data-Production-Expert_JR1063](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Wien-Austria/Data-Production-Expert_JR1063)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1063
-- **Status:** scraped
-
 ### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069)
@@ -246,14 +270,6 @@ _Generated: 2026-10-29T12:22:10.207Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** JR1075
-- **Status:** scraped
-
-### (Senior) Consultant, Business Development (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/XMLNAME--Senior--Consultant--Business-Development--m-w-d-_JR1058)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1058
 - **Status:** scraped
 
 ### Client Engagement Manager - US
@@ -374,14 +390,6 @@ _Generated: 2026-10-29T12:22:10.207Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0877
-- **Status:** scraped
-
-### Sales Representative (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Sales-Representative--m-w-d-_JR0925)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0925
 - **Status:** scraped
 
 ### Business Development Manager (m/w/d)
