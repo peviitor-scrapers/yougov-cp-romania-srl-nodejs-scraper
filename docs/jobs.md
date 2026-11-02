@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (51)
+## Current Job Listings (50)
 
-_Generated: 2026-11-01T12:44:29.958Z_
+_Generated: 2026-11-02T14:52:45.383Z_
+
+### Senior Data Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1093
+- **Status:** scraped
+
+### Senior Data Engineer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1094
+- **Status:** scraped
 
 ### Research Manager
 
@@ -70,14 +86,6 @@ _Generated: 2026-11-01T12:44:29.958Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0657
-- **Status:** scraped
-
-### Research Manager, YouGov Sports
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1083
 - **Status:** scraped
 
 ### Research Director, YouGov Sport
@@ -216,14 +224,6 @@ _Generated: 2026-11-01T12:44:29.958Z_
 - **Tags:** JR1098
 - **Status:** scraped
 
-### Senior Data Engineer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1094
-- **Status:** scraped
-
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
@@ -238,14 +238,6 @@ _Generated: 2026-11-01T12:44:29.958Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1092
-- **Status:** scraped
-
-### Payroll Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Payroll-Analyst_JR1081-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1081
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
