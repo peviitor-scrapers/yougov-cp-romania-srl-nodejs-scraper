@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (50)
+## Current Job Listings (51)
 
-_Generated: 2026-11-02T14:52:45.383Z_
+_Generated: 2026-11-03T13:42:06.109Z_
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0982
+- **Status:** scraped
+
+### Junior Data Scientist
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1127
+- **Status:** scraped
+
+### Senior Data Scientist
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Senior-Data-Scientist_JR1128-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Senior-Data-Scientist_JR1128-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** JR1128
+- **Status:** scraped
 
 ### Senior Data Analyst
 
@@ -232,14 +256,6 @@ _Generated: 2026-11-02T14:52:45.383Z_
 - **Tags:** JR1059
 - **Status:** scraped
 
-### Werkstudent in HR (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in-HR--m-w-d-_JR1092)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1092
-- **Status:** scraped
-
 ### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--YouGov-Shopper---Client-Management-Team-Retail---Lifestyle_JR1069)
@@ -326,14 +342,6 @@ _Generated: 2026-11-02T14:52:45.383Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1003
-- **Status:** scraped
-
-### Research Executive (m/w/d) im Team „Political Research“
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1052
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
