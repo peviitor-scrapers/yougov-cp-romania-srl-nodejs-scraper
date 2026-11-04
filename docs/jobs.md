@@ -10,18 +10,26 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
 ## Current Job Listings (51)
 
-_Generated: 2026-11-03T13:42:06.109Z_
+_Generated: 2026-11-04T13:50:49.721Z_
 
-### Research Manager
+### Business Development Manager
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Manager_JR0982)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR0982
+- **Tags:** JR0897
+- **Status:** scraped
+
+### Research Manager, YouGov Sports
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1083
 - **Status:** scraped
 
 ### Junior Data Scientist
@@ -94,14 +102,6 @@ _Generated: 2026-11-03T13:42:06.109Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1090
-- **Status:** scraped
-
-### Business Development Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Business-Development-Manager_JR0897)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0897
 - **Status:** scraped
 
 ### Senior Software Engineer, Python (Remote)
