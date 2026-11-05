@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
 ## Current Job Listings (51)
 
-_Generated: 2026-11-04T13:50:49.721Z_
+_Generated: 2026-11-05T14:03:58.392Z_
+
+### Associate Director - Research
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Associate-Director---Research_JR1123](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Associate-Director---Research_JR1123)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1123
+- **Status:** scraped
 
 ### Business Development Manager
 
@@ -238,14 +246,6 @@ _Generated: 2026-11-04T13:50:49.721Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1082
-- **Status:** scraped
-
-### Director - Qualitative
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Director---Qualitative_JR1098](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Director---Qualitative_JR1098)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1098
 - **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
