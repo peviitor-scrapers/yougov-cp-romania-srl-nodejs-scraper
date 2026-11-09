@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (52)
+## Current Job Listings (50)
 
-_Generated: 2026-11-08T12:49:58.598Z_
+_Generated: 2026-11-09T15:19:29.676Z_
+
+### Praktikant\*in (m/w/d) - Client Commercial Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1059
+- **Status:** scraped
+
+### Advanced Solution team - Intern
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1126
+- **Status:** scraped
 
 ### Accounts Payable Analyst (Invoice Processing - P2P)
 
@@ -72,14 +88,6 @@ _Generated: 2026-11-08T12:49:58.598Z_
 - **Tags:** JR1127
 - **Status:** scraped
 
-### Senior Data Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1093
-- **Status:** scraped
-
 ### Senior Data Engineer
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094)
@@ -110,14 +118,6 @@ _Generated: 2026-11-08T12:49:58.598Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** JR1115
-- **Status:** scraped
-
-### Senior Technical Product Manager, Data Integrations
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Technical-Product-Manager--Data-Integrations_JR1107](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Technical-Product-Manager--Data-Integrations_JR1107)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1107
 - **Status:** scraped
 
 ### Junior Consultant – Retail
@@ -240,28 +240,12 @@ _Generated: 2026-11-08T12:49:58.598Z_
 - **Tags:** JR1089
 - **Status:** scraped
 
-### People Partner- APAC
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1044
-- **Status:** scraped
-
 ### Sales Development Representative (SDR)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Sales-Development-Representative--SDR-_JR1082](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Sales-Development-Representative--SDR-_JR1082)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1082
-- **Status:** scraped
-
-### Praktikant\*in (m/w/d) - Client Commercial Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1059
 - **Status:** scraped
 
 ### Werkstudent/in (m/w/d) YouGov Shopper – Client Management Team Retail & Lifestyle
