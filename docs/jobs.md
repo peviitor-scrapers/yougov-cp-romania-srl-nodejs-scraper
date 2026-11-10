@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (50)
+## Current Job Listings (47)
 
-_Generated: 2026-11-09T15:19:29.676Z_
+_Generated: 2026-11-10T14:24:57.251Z_
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1137
+- **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
@@ -22,14 +30,6 @@ _Generated: 2026-11-09T15:19:29.676Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1059
-- **Status:** scraped
-
-### Advanced Solution team - Intern
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1126
 - **Status:** scraped
 
 ### Accounts Payable Analyst (Invoice Processing - P2P)
@@ -256,28 +256,12 @@ _Generated: 2026-11-09T15:19:29.676Z_
 - **Tags:** JR1069
 - **Status:** scraped
 
-### Junior Consultant (m/w/d) im Bereich FMCG
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Director-Team-Lead-Convenience-Team--m-w-d-_JR0726)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0726
-- **Status:** scraped
-
 ### Accounts Payable Analyst (Treasury Operations)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** JR1075
-- **Status:** scraped
-
-### Client Engagement Manager - US
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Client-Engagement-Manager---US_JR1060)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1060
 - **Status:** scraped
 
 ### Stage de fin d'études - Sales Development Representative (SDR)
@@ -350,14 +334,6 @@ _Generated: 2026-11-09T15:19:29.676Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1027
-- **Status:** scraped
-
-### Consultant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Praha-Czechia/Consultant_JR1031-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Praha-Czechia/Consultant_JR1031-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1031
 - **Status:** scraped
 
 ### Account Manager
