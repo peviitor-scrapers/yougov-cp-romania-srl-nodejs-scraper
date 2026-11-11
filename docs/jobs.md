@@ -10,19 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
-## Current Job Listings (47)
+## Current Job Listings (43)
 
-_Generated: 2026-11-10T14:24:57.251Z_
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1137
-- **Status:** scraped
+_Generated: 2026-11-11T13:38:51.819Z_
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
@@ -30,6 +22,14 @@ _Generated: 2026-11-10T14:24:57.251Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1059
+- **Status:** scraped
+
+### Research Manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangkok-Thailand/Research-Manager_JR1137)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1137
 - **Status:** scraped
 
 ### Accounts Payable Analyst (Invoice Processing - P2P)
@@ -94,14 +94,6 @@ _Generated: 2026-11-10T14:24:57.251Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1094
-- **Status:** scraped
-
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Research-Manager_JR0947](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Research-Manager_JR0947)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0947
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
@@ -192,14 +184,6 @@ _Generated: 2026-11-10T14:24:57.251Z_
 - **Tags:** JR1103
 - **Status:** scraped
 
-### Deputy Company Secretary
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Deputy-Company-Secretary_JR1106](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Deputy-Company-Secretary_JR1106)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1106
-- **Status:** scraped
-
 ### Junior Consultant - Retail & Lifestyle (m/w/d)
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
@@ -208,28 +192,12 @@ _Generated: 2026-11-10T14:24:57.251Z_
 - **Tags:** JR0742
 - **Status:** scraped
 
-### Senior Legal Counsel, Corporate
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Legal-Counsel--Corporate_JR1097-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-Legal-Counsel--Corporate_JR1097-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1097
-- **Status:** scraped
-
 ### Senior EU Accountant
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1005
-- **Status:** scraped
-
-### Marketing Automation Specialist
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Automation-Specialist_JR1104](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Automation-Specialist_JR1104)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1104
 - **Status:** scraped
 
 ### Senior Research Director
