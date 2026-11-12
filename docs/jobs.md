@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
-## Current Job Listings (43)
+## Current Job Listings (45)
 
-_Generated: 2026-11-11T13:38:51.819Z_
+_Generated: 2026-11-12T14:42:46.177Z_
+
+### Talent Acquisition Partner
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1138
+- **Status:** scraped
+
+### Associate Manager, Research
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1130
+- **Status:** scraped
+
+### Research Manager, YouGov Sports
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1083
+- **Status:** scraped
+
+### Business Development Manager, Sport
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager--Sport_JR1140](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager--Sport_JR1140)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1140
+- **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
@@ -70,14 +102,6 @@ _Generated: 2026-11-11T13:38:51.819Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Research Manager, YouGov Sports
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1083
 - **Status:** scraped
 
 ### Junior Data Scientist
@@ -262,14 +286,6 @@ _Generated: 2026-11-11T13:38:51.819Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0937
-- **Status:** scraped
-
-### New Business Senior Sales
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/New-Business-Senior-Sales_JR1053)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1053
 - **Status:** scraped
 
 ### Record to Report Accountant
