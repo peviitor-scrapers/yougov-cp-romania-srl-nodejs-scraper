@@ -10,18 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
-## Current Job Listings (45)
+## Current Job Listings (41)
 
-_Generated: 2026-11-12T14:42:46.177Z_
+_Generated: 2026-11-13T13:59:14.468Z_
 
-### Talent Acquisition Partner
+### Research Manager, YouGov Sports
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR1138
+- **Tags:** JR1083
 - **Status:** scraped
 
 ### Associate Manager, Research
@@ -30,14 +30,6 @@ _Generated: 2026-11-12T14:42:46.177Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1130
-- **Status:** scraped
-
-### Research Manager, YouGov Sports
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1083
 - **Status:** scraped
 
 ### Business Development Manager, Sport
@@ -160,14 +152,6 @@ _Generated: 2026-11-12T14:42:46.177Z_
 - **Tags:** JR1087
 - **Status:** scraped
 
-### Research Manager
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Research-Manager_JR1114](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Research-Manager_JR1114)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1114
-- **Status:** scraped
-
 ### Sales Development Representative
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096)
@@ -280,14 +264,6 @@ _Generated: 2026-11-12T14:42:46.177Z_
 - **Tags:** JR1066
 - **Status:** scraped
 
-### (Senior) Research Executive (w/m/d) – Quantitative Marktforschung | Financial Services
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Senior-Research-Executive--Quantitative----Financial-Services--m-w-d-_JR0937)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0937
-- **Status:** scraped
-
 ### Record to Report Accountant
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2)
@@ -326,14 +302,6 @@ _Generated: 2026-11-12T14:42:46.177Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1018
-- **Status:** scraped
-
-### Junior Research Consultant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0739
 - **Status:** scraped
 
 ### Werkstudent\*in Vertrieb & Business Development (m/w/d)
