@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
-## Current Job Listings (41)
+## Current Job Listings (42)
 
-_Generated: 2026-11-13T13:59:14.468Z_
+_Generated: 2026-11-14T13:01:24.467Z_
+
+### Head of B2B Editorial Content
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-B2B-Editorial-Content_JR1146](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Head-of-B2B-Editorial-Content_JR1146)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1146
+- **Status:** scraped
 
 ### Research Manager, YouGov Sports
 
