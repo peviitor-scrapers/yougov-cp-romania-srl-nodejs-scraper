@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (42)
+## Current Job Listings (44)
 
-_Generated: 2026-11-15T13:29:29.547Z_
+_Generated: 2026-11-16T14:55:35.724Z_
+
+### Data Management Working Student (Finnish Speaker)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Working-Student--Finnish-Speaker-_JR1149](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Working-Student--Finnish-Speaker-_JR1149)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1149
+- **Status:** scraped
+
+### Praktikant\*in (m/w/d) - Client Commercial Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1059
+- **Status:** scraped
+
+### Advance Solution Team Intern
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Advanced-Solution-team---Intern_JR1126)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1126
+- **Status:** scraped
+
+### Associate Manager, Research
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1130
+- **Status:** scraped
 
 ### Head of B2B Editorial Content
 
@@ -32,28 +64,12 @@ _Generated: 2026-11-15T13:29:29.547Z_
 - **Tags:** JR1083
 - **Status:** scraped
 
-### Associate Manager, Research
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Hong-Kong-Hong-Kong/Associate-Manager--Research_JR1130)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1130
-- **Status:** scraped
-
 ### Business Development Manager, Sport
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager--Sport_JR1140](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Business-Development-Manager--Sport_JR1140)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1140
-- **Status:** scraped
-
-### Praktikant\*in (m/w/d) - Client Commercial Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1059
 - **Status:** scraped
 
 ### Research Manager
@@ -240,11 +256,11 @@ _Generated: 2026-11-15T13:29:29.547Z_
 - **Tags:** JR1069
 - **Status:** scraped
 
-### Accounts Payable Analyst (Treasury Operations)
+### undefined
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Accounts-Payable-Analyst--Treasury-Operations-_JR1075)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careersundefined](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careersundefined)
 - **Work Mode:** hybrid
-- **Location:** Bucharest, România
+- **Location:** România
 - **Tags:** JR1075
 - **Status:** scraped
 
