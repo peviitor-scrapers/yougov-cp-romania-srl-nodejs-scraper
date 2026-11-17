@@ -7,14 +7,70 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
+| Location | București |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
-## Current Job Listings (44)
+## Current Job Listings (45)
 
-_Generated: 2026-11-16T14:55:35.724Z_
+_Generated: 2026-11-17T15:33:37.001Z_
+
+### Praktikant\*in (m/w/d) - Client Commercial Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1059
+- **Status:** scraped
+
+### Talent Acquisition Partner
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Talent-Acquisition-Partner_JR1138-2)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1138
+- **Status:** scraped
+
+### Pflichtpraktikant\*in (m/w/d) Marktforschung - Retail
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Pflichtpraktikant-in--m-w-d--Marktforschung---Retail_JR1148](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Pflichtpraktikant-in--m-w-d--Marktforschung---Retail_JR1148)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1148
+- **Status:** scraped
+
+### Praktikum (m/w/d) Marktforschung - Retail
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikum--m-w-d--Marktforschung---Retail_JR1147-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Praktikum--m-w-d--Marktforschung---Retail_JR1147-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1147
+- **Status:** scraped
+
+### GEO and SEO content manager
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/GEO-and-SEO-content-manager_JR1134](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/GEO-and-SEO-content-manager_JR1134)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1134
+- **Status:** scraped
+
+### DESKTOP SUPPORT TECHNICIAN
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Navi-Mumbai-India/DESKTOP-SUPPORT-TECHNICIAN_JR1151-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Navi-Mumbai-India/DESKTOP-SUPPORT-TECHNICIAN_JR1151-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1151
+- **Status:** scraped
+
+### Panel Member Support Executive
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Panel-Member-Support-Executive_JR1150](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Panel-Member-Support-Executive_JR1150)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1150
+- **Status:** scraped
 
 ### Data Management Working Student (Finnish Speaker)
 
@@ -22,14 +78,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1149
-- **Status:** scraped
-
-### Praktikant\*in (m/w/d) - Client Commercial Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1059
 - **Status:** scraped
 
 ### Advance Solution Team Intern
@@ -54,14 +102,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1146
-- **Status:** scraped
-
-### Research Manager, YouGov Sports
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Manager_JR1083-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1083
 - **Status:** scraped
 
 ### Business Development Manager, Sport
@@ -168,14 +208,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Tags:** JR0657
 - **Status:** scraped
 
-### Research Director, YouGov Sport
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Melbourne-Australia/Research-Director--YouGov-Sport_JR1087)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1087
-- **Status:** scraped
-
 ### Sales Development Representative
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Barcelona-Spain/Sales-Development-Representative_JR1096)
@@ -216,14 +248,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Tags:** JR1103
 - **Status:** scraped
 
-### Junior Consultant - Retail & Lifestyle (m/w/d)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Junior-Consultant---Retail---Lifestyle--m-w-d-_JR0742)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0742
-- **Status:** scraped
-
 ### Senior EU Accountant
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Senior-EU-Accountant_JR1005)
@@ -254,14 +278,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1069
-- **Status:** scraped
-
-### undefined
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careersundefined](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careersundefined)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1075
 - **Status:** scraped
 
 ### Stage de fin d'études - Sales Development Representative (SDR)
@@ -310,14 +326,6 @@ _Generated: 2026-11-16T14:55:35.724Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1039
-- **Status:** scraped
-
-### Data Management Specialist (Finnish Speaker)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Copenhagen-Denmark/Data-Management-Specialist_JR1027)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1027
 - **Status:** scraped
 
 ### Account Manager
