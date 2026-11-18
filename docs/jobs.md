@@ -7,18 +7,42 @@
 | CIF | 48869513 |
 | Brand | YouGov |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
-## Current Job Listings (45)
+## Current Job Listings (47)
 
-_Generated: 2026-11-17T15:33:37.001Z_
+_Generated: 2026-11-18T15:10:47.375Z_
+
+### Senior Data Engineer
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1095](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1095)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1095
+- **Status:** scraped
+
+### Research Executive, Client Service
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1037
+- **Status:** scraped
+
+### Desktop Support Technician
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Desktop-Support-Technician_JR1152-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Desktop-Support-Technician_JR1152-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1152
+- **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent--m-w-d----Client-Commercial-Team_JR1059)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1059
@@ -294,14 +318,6 @@ _Generated: 2026-11-17T15:33:37.001Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1064
-- **Status:** scraped
-
-### Junior Sales / Junior Business Development
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Junior-Sales---Junior-Business-Development_JR1066](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Junior-Sales---Junior-Business-Development_JR1066)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1066
 - **Status:** scraped
 
 ### Record to Report Accountant
