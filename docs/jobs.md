@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (47)
+## Current Job Listings (46)
 
-_Generated: 2026-11-18T15:10:47.375Z_
+_Generated: 2026-11-19T15:18:51.403Z_
 
 ### Senior Data Engineer
 
@@ -182,14 +182,6 @@ _Generated: 2026-11-18T15:10:47.375Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Junior Data Scientist
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Junior-Data-Scientist_JR1127)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1127
 - **Status:** scraped
 
 ### Senior Data Engineer
