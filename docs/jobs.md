@@ -10,18 +10,42 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (46)
 
-_Generated: 2026-11-19T15:18:51.403Z_
+_Generated: 2026-11-20T14:57:33.536Z_
 
-### Senior Data Engineer
+### Senior Data Analyst
 
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1095](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1095)
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Analyst_JR1093)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** JR1095
+- **Tags:** JR1093
+- **Status:** scraped
+
+### Senior Data Methodology Analyst
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/New-York-United-States-of-America/Senior-Data-Methodology-Analyst_JR1051)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1051
+- **Status:** scraped
+
+### Werkstudent\*in (m/w/d) in Market Research im Advanced Solutions Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1157
+- **Status:** scraped
+
+### Stage de fin d'études ou Alternance - Sales Development Representative (SDR)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR0984
 - **Status:** scraped
 
 ### Research Executive, Client Service
@@ -200,14 +224,6 @@ _Generated: 2026-11-19T15:18:51.403Z_
 - **Tags:** JR1119
 - **Status:** scraped
 
-### Market Analyst
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Market-Analyst_JR1115)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1115
-- **Status:** scraped
-
 ### Junior Consultant – Retail
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Warsaw-Poland/Junior-Consultant---Retail_JR1090)
@@ -296,28 +312,12 @@ _Generated: 2026-11-19T15:18:51.403Z_
 - **Tags:** JR1069
 - **Status:** scraped
 
-### Stage de fin d'études - Sales Development Representative (SDR)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0984
-- **Status:** scraped
-
 ### Senior Sales Business Development
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1064
-- **Status:** scraped
-
-### Record to Report Accountant
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Record-to-Report-Accountant_JR0980-2)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0980
 - **Status:** scraped
 
 ### Research Director
