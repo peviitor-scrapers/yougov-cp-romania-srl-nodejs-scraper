@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-21 |
+| Last Scraped | 2026-11-22 |
 
 ## Current Job Listings (46)
 
-_Generated: 2026-11-21T14:16:51.375Z_
+_Generated: 2026-11-22T14:07:33.959Z_
 
 ### Senior Product Manager – Data Products
 
