@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (46)
+## Current Job Listings (45)
 
-_Generated: 2026-11-22T14:07:33.959Z_
+_Generated: 2026-11-23T17:29:33.509Z_
+
+### Research Executive, Client Service
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1037
+- **Status:** scraped
+
+### People Partner- APAC
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1044
+- **Status:** scraped
 
 ### Senior Product Manager – Data Products
 
@@ -54,22 +70,6 @@ _Generated: 2026-11-22T14:07:33.959Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0984
-- **Status:** scraped
-
-### Research Executive, Client Service
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1037
-- **Status:** scraped
-
-### Desktop Support Technician
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Desktop-Support-Technician_JR1152-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Desktop-Support-Technician_JR1152-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1152
 - **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
@@ -206,14 +206,6 @@ _Generated: 2026-11-22T14:07:33.959Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR0897
-- **Status:** scraped
-
-### Senior Data Engineer
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Senior-Data-Engineer_JR1094)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1094
 - **Status:** scraped
 
 ### Sales Representative (m/w/d)
