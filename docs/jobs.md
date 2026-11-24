@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (45)
+## Current Job Listings (46)
 
-_Generated: 2026-11-23T17:29:33.509Z_
+_Generated: 2026-11-24T17:01:04.377Z_
+
+### People Partner- APAC
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai/People-Partner_JR1044-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1044
+- **Status:** scraped
+
+### Werkstudent/in (m/w/d) im Marktforschung, Globales Team
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-Marktforschung--Globales-Team_JR1159](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Werkstudent-in--m-w-d--im-Marktforschung--Globales-Team_JR1159)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1159
+- **Status:** scraped
 
 ### Research Executive, Client Service
 
@@ -22,14 +38,6 @@ _Generated: 2026-11-23T17:29:33.509Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1037
-- **Status:** scraped
-
-### People Partner- APAC
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/People-Partner_JR1044-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1044
 - **Status:** scraped
 
 ### Senior Product Manager – Data Products
