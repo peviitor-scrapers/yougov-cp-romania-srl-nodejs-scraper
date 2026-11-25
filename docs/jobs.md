@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (46)
+## Current Job Listings (45)
 
-_Generated: 2026-11-24T17:01:04.377Z_
+_Generated: 2026-11-25T16:51:22.431Z_
+
+### Account Director
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1078
+- **Status:** scraped
 
 ### People Partner- APAC
 
@@ -248,14 +256,6 @@ _Generated: 2026-11-24T17:01:04.377Z_
 - **Tags:** JR1096
 - **Status:** scraped
 
-### Account Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Chicago-United-States-of-America/Account-Director_JR1078)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1078
-- **Status:** scraped
-
 ### Data Engineer
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Data-Engineer_JR1102-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Data-Engineer_JR1102-1)
@@ -310,14 +310,6 @@ _Generated: 2026-11-24T17:01:04.377Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1069
-- **Status:** scraped
-
-### Senior Sales Business Development
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Milano-Italy/Senior-Sales-Business-Development_JR1064)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1064
 - **Status:** scraped
 
 ### Research Director
