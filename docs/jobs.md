@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
-## Current Job Listings (45)
+## Current Job Listings (44)
 
-_Generated: 2026-11-25T16:51:22.431Z_
+_Generated: 2026-11-26T16:28:19.854Z_
+
+### Pflicht-Praktikum im Bereich Consumer Panels Central Specialist Team (m/w/d)
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Pflicht-Praktikum-im-Bereich-Consumer-Panels-Central-Specialist-Team--m-w-d-_JR1166](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Nuremberg-Germany/Pflicht-Praktikum-im-Bereich-Consumer-Panels-Central-Specialist-Team--m-w-d-_JR1166)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1166
+- **Status:** scraped
 
 ### Account Director
 
@@ -70,14 +78,6 @@ _Generated: 2026-11-25T16:51:22.431Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1051
-- **Status:** scraped
-
-### Werkstudent\*in (m/w/d) in Market Research im Advanced Solutions Team
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1157
 - **Status:** scraped
 
 ### Stage de fin d'études ou Alternance - Sales Development Representative (SDR)
@@ -310,14 +310,6 @@ _Generated: 2026-11-25T16:51:22.431Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1069
-- **Status:** scraped
-
-### Research Director
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Director_JR1003-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Dubai-United-Arab-Emirates/Research-Director_JR1003-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1003
 - **Status:** scraped
 
 ### Consultant, Retail & Lifestyle (2 year Fixed Term Contract) (m/w/d)
