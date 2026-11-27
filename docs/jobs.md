@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
-## Current Job Listings (44)
+## Current Job Listings (42)
 
-_Generated: 2026-11-26T16:28:19.854Z_
+_Generated: 2026-11-27T16:13:31.414Z_
 
 ### Pflicht-Praktikum im Bereich Consumer Panels Central Specialist Team (m/w/d)
 
@@ -192,14 +192,6 @@ _Generated: 2026-11-26T16:28:19.854Z_
 - **Tags:** JR1137
 - **Status:** scraped
 
-### Accounts Payable Analyst (Invoice Processing - P2P)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Accounts-Payable-Analyst--Invoice-Processing---P2P-_JR1135-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mumbai-India/Accounts-Payable-Analyst--Invoice-Processing---P2P-_JR1135-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR1135
-- **Status:** scraped
-
 ### Data Scientist
 
 - **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Senior-Data-Scientist_JR1128-1](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Senior-Data-Scientist_JR1128-1)
@@ -262,14 +254,6 @@ _Generated: 2026-11-26T16:28:19.854Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1102
-- **Status:** scraped
-
-### Technical Support Expert
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Technical-Support-Expert_JR1109)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** JR1109
 - **Status:** scraped
 
 ### Analytics Engineer
