@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GRIGORE ALEXANDRESCU, NR.89-97, METROPOLIS CENTER. CLADIREA A , ET.4 |
 | Website | [https://yougov.com](https://yougov.com) |
 | Careers | [https://jobs.yougov.com](https://jobs.yougov.com) |
-| Last Scraped | 2026-11-27 |
+| Last Scraped | 2026-11-28 |
 
 ## Current Job Listings (42)
 
-_Generated: 2026-11-27T16:13:31.414Z_
+_Generated: 2026-11-28T15:07:13.527Z_
+
+### Research Executive - Public Sector & Charities
+
+- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1171](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/London-United-Kingdom/Research-Executive---Public-Sector---Charities_JR1171)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** JR1171
+- **Status:** scraped
 
 ### Pflicht-Praktikum im Bereich Consumer Panels Central Specialist Team (m/w/d)
 
@@ -78,14 +86,6 @@ _Generated: 2026-11-27T16:13:31.414Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** JR1051
-- **Status:** scraped
-
-### Stage de fin d'études ou Alternance - Sales Development Representative (SDR)
-
-- **URL:** [https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984](https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Sales-Development-Representative--SDR-_JR0984)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** JR0984
 - **Status:** scraped
 
 ### Praktikant\*in (m/w/d) - Client Commercial Team
